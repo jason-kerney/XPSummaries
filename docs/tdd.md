@@ -1,6 +1,6 @@
 <!--bl
 (filemeta
-    (title "Test Driven Development"))
+    (title "Test-Driven Development"))
 /bl-->
 
 Also called TDD.

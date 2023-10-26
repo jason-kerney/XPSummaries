@@ -6,6 +6,7 @@
     (section-main "./intro.md")
     (section-main "./tdd.md")
     (section-main "./atdd.md")
+    (section-main "./bdd.md")
     (section-main "./mob.md")
     (section-main "./contrib.md")
 )
