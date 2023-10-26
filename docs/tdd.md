@@ -1,7 +1,9 @@
 <!--bl
 (filemeta
-    (title "Test Driven Development (TDD)"))
+    (title "Test Driven Development"))
 /bl-->
+
+Also called TDD.
 
 ### Summary
 

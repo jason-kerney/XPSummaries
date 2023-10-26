@@ -6,7 +6,7 @@
 ## Table Of Contents ##
 
 - [Section 1: Introduction](#user-content-introduction)
-- [Section 2: Test Driven Development (TDD)](#user-content-test-driven-development-(tdd))
+- [Section 2: Test Driven Development](#user-content-test-driven-development)
 - [Section 3: Contributors](#user-content-contributors)
 
 ## Introduction ##
@@ -14,7 +14,9 @@
 I was asked to write short summaries about Extreme Programming Practices and to make those summaries widely available. The target audience is anyone who wants a brief description. I will include resources in that description if people want to know more.
     
 
-## Test Driven Development (TDD) ##
+## Test Driven Development ##
+
+Also called TDD.
 
 ### Summary
 
