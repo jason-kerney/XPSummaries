@@ -1,5 +1,7 @@
-
-## Contributors ✨
+<!--bl
+(filemeta
+    (title "Contributors"))
+/bl-->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
