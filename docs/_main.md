@@ -5,7 +5,7 @@
 (table-of-contents
     (section-main "./intro.md")
     (section-main "./tdd.md")
-    (section-main "./contrib.md")
     (section-main "./atdd.md")
+    (section-main "./contrib.md")
 )
 /bl-->
