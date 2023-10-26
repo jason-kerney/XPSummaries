@@ -62,7 +62,7 @@ Brittle tests are often caused by an insufficient design. If you must tie your t
 
 TDD is a skill that needs practice.
 
-### FAQ
+### F.A.Q.
 
 #### Can you use TDD in a legacy setting?
 

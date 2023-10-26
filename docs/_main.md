@@ -6,5 +6,6 @@
     (section-main "./intro.md")
     (section-main "./tdd.md")
     (section-main "./contrib.md")
+    (section-main "./atdd.md")
 )
 /bl-->
