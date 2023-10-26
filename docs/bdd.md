@@ -37,6 +37,10 @@ When the developer is introduced to a new term, take time to understand what tha
 
 When translating the description into code, ensure you avoid technical jargon when it is unless absolutely necessary. The code must read like the description. A good test of this is to have the customer compare the two and ask questions.
 
+### Video Description
+
+[![What is #BDD (Behaviour Driven Development)?](https://www.youtube.com/watch?v=GavBjhAp42o)]
+
 ### Hot Tips and Tricks
 
 #### Use Tools
