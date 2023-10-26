@@ -12,8 +12,12 @@
     "verboseMode": false,
     "aliases": [
         {
-            "name": "compile",
-            "command": "booklisp ./docs/_main.md ./README.md"
+            "name": "build",
+            "command": "cls; booklisp ./docs/_main.md ./README.md"
+        },
+        {
+            "name": "push",
+            "command": "gittey build && gittey commit && git push"
         }
     ],
     "collaborators": []
