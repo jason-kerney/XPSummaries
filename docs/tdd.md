@@ -1,7 +1,6 @@
 <!--bl
 (filemeta
-    (title "Test Driven Development")
-    (subtitle "TDD"))
+    (title "Test Driven Development (TDD)"))
 /bl-->
 
 ### Summary
