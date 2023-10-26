@@ -66,8 +66,8 @@ Start with step two and repeat until the product is done.
 
 ZOMBIE is a guide to help you know what to focus on and when.
 
-[Video](https://www.youtube.com/watch?v=dYM8HEacJgs)
-[Blog](https://blog.wingman-sw.com/tdd-guided-by-zombies)
+* [Video](https://www.youtube.com/watch?v=dYM8HEacJgs)
+* [Blog](https://blog.wingman-sw.com/tdd-guided-by-zombies)
 
 #### Avoid Brittleness
 
