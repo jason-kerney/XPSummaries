@@ -39,7 +39,7 @@ When translating the description into code, ensure you avoid technical jargon wh
 
 ### Video Description
 
-[![What is #BDD (Behaviour Driven Development)?](https://www.youtube.com/watch?v=GavBjhAp42o)]
+[What is #BDD (Behaviour Driven Development)?](https://www.youtube.com/watch?v=GavBjhAp42o)
 
 ### Hot Tips and Tricks
 
