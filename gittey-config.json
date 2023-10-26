@@ -1,0 +1,20 @@
+{
+    "branchPrefix": {
+        "separator": "",
+        "validator": "",
+        "prefixes": {}
+    },
+    "commitPrefix": {
+        "separator": " ",
+        "validator": "^.{1,45}$",
+        "prefixes": {}
+    },
+    "verboseMode": false,
+    "aliases": [
+        {
+            "name": "compile",
+            "command": "booklisp ./docs/_main.md ./README.md"
+        }
+    ],
+    "collaborators": []
+}
