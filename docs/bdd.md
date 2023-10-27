@@ -45,9 +45,7 @@ When translating the description into code, ensure you avoid technical jargon wh
 
 #### Use Tools
 
-There are a few tools out there that can minimize the effort in using Behavior-Driven Development. These tools primarily reduce the work of translating the description into executable code. The most popular of these is [Gherkin](https://cucumber.io/docs/gherkin/reference/). Gherkin takes a very structured English description and makes it executable.
-
-There are other tools also. Find the tool that works for your context to make your life easier.
+There are a few tools out there that can minimize the effort in using Behavior-Driven Development. These tools primarily reduce the work of translating the description into executable code. The most popular of these is [Cucumber](https://cucumber.io/). Cucumber takes a very structured English description and makes it executable.
 
 #### Pair with Domain-Driven Development
 
@@ -67,7 +65,7 @@ Both are a test-first approach. However, Behavior-Driven Development focuses on 
 
 Both are a test-first approach. However, Behavior-Driven Development focuses on a common language and understanding. Acceptance Test-Driven Development focuses on a shared understanding of the intent of a story. The two can be combined. You can do ATDD by working in a customer-centric language. This has the advantage the customer can understand the tests that verify the acceptance criteria. This will catch subtle errors that can be made between the definition of the acceptance test and the creation of the code for the acceptance test.
 
-#### Do I have to use Gherkin or Another Specialty Tool?
+#### Do I have to use Cucumber or Another Specialty Tool?
 
 Maybe. You can make this work with any test framework in most programming languages. The downside is you will do much more work to get the benefits.
 
