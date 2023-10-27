@@ -72,7 +72,7 @@ Yes, it is more complex and requires more skill, but it is possible. It often st
 
 Yes, by about 15%. However, studies show that the reduction in bug handling more than makes up for that speed reduction. The total time of development can increase by 50% or more when considering time fixing bugs.
 
-[Here](https://github.com/jason-kerney/CoachingResources#user-content-tdd-research) are several papers backing supporting that claim.
+[Here](https://github.com/jason-kerney/CoachingResources#user-content-tdd-research) are several papers supporting that claim.
 
 #### What is the investment cost to get started?
 
