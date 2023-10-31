@@ -20,7 +20,7 @@ Ensemble Development aims to amplify collaboration. It is worth noting that some
 
 ## Guidance
 
-<table style="border=none">
+<table style="border=none!important">
 <tr height=100%>
 <td width=30%>
   <img src="./images/pexels-anna-shvets-5324986.jpg" >
@@ -55,7 +55,7 @@ It is also recommended that you rotate who is in the Driver position to prevent 
 You will need to decide if you are doing Strong Navigation or not and how to rotate the driver position. You will also need to determine where the work will be done. The notion of the same computer is squishy as the intent is that everyone can see the changes done in real time and have access to those changes should they take over.
 
 
-<table style="border=none">
+<table style="border=none!important">
 <tr height=100%>
 <td width=30%>
 <img align="left" src="./images/MobProgramming.gif">
