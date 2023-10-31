@@ -48,8 +48,7 @@ You will need to decide if you are doing Strong Navigation or not and how to rot
 
 <br>
 
-<img align="left" src="./images/pexels-anna-shvets-5324986.jpg" style="width:30%;padding:20px 23px 0px 0px">
-<img align="left" src="./images/MobProgramming.gif" style="width:30%;padding:25px 23px 0px 0px">
+<img align="left" src="./images/MobProgramming.gif" style="width:30%;padding:20px 23px 0px 0px">
 
 ### 3.	Collaborate
 
