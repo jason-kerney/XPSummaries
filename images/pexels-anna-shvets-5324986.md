@@ -1,0 +1,1 @@
+Photo by Anna Shvets: https://www.pexels.com/photo/multiethnic-cheerful-colleagues-looking-at-stickers-and-smiling-5324986/

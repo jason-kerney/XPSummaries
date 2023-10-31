@@ -4,7 +4,7 @@
     (subtitle "Quick Introductions to XP Practices"))
 (table-of-contents
     (section-main "./intro.md")
-    (section-main "./tdd.md")
+    (section-main "./directory.md")
     (section-main "./atdd.md")
     (section-main "./bdd.md")
     (section-main "./mob.md")
