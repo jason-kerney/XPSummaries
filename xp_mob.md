@@ -20,7 +20,7 @@ Ensemble Development aims to amplify collaboration. It is worth noting that some
 
 ## Guidance
 
-<table border=0px style="width: 100%; height: 400px; overflow: auto;table-layout:fixed !important">
+<table border=0px style="width: 100%; height: 400px;table-layout:fixed !important">
 <tr height=100%>
 <td width=30%>
   <img src="./images/pexels-anna-shvets-5324986.jpg" >
@@ -39,7 +39,7 @@ This works well when the work to be done has any of the following attributes:
 </tr>
 <tr>
 </table>
-<br>
+
 <img align="right" src="./images/pexels-anna-shvets-4226140.jpg" style="width:30%;padding:20px 0px 0px 20px">
 
 ### 2.	Decide how and where you are going to work.
