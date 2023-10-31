@@ -3,5 +3,5 @@
     (title "A List of Available Documents"))
 /bl-->
 
-* [Test-Driven Development (TDD)](.\tdd.md)
-* [Acceptance Test-Driven Development (ATDD)](.\atdd.md)
+* [Test-Driven Development (TDD)](.\xp_tdd.md)
+* [Acceptance Test-Driven Development (ATDD)](.\xp_atdd.md)

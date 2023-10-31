@@ -18,8 +18,8 @@ I was asked to write short summaries about Extreme Programming Practices and to 
 
 ## A List of Available Documents ##
 
-* [Test-Driven Development (TDD)](.\tdd.md)
-* [Acceptance Test-Driven Development (ATDD)](.\atdd.md)
+* [Test-Driven Development (TDD)](.\xp_tdd.md)
+* [Acceptance Test-Driven Development (ATDD)](.\xp_atdd.md)
     
 
 ## Behavior-Driven Development ##
