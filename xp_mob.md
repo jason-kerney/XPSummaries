@@ -32,6 +32,8 @@ This works well when the work to be done has any of the following attributes:
 
 <br><br><br>
 
+<img align="right" src="./images/pexels-anna-shvets-4226140.jpg" style="width:30%;padding:20px 0px 0px 20px">
+
 ### 2.	Decide how and where you are going to work.
 
 There are many roles and two positions when doing this type of work. The two positions are Driver and Navigator. The person who has control of the keyboard is the driver. Everyone else is the navigator. The driver's job is to listen to all the navigators and distill that into a coherent change. The navigator's job is to guide at the highest possible level where the changes are going.
