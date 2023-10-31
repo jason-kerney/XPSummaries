@@ -20,7 +20,7 @@ Ensemble Development aims to amplify collaboration. It is worth noting that some
 
 ## Guidance
 
-<table border=0px hide_vertical_scroll=true>
+<table border=0px style="width:100%;table-layout:fixed">
 <tr height=100%>
 <td width=30%>
   <img src="./images/pexels-anna-shvets-5324986.jpg" >
