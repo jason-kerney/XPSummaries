@@ -5,7 +5,6 @@
 (table-of-contents
     (section-main "./intro.md")
     (section-main "./directory.md")
-    (section-main "./atdd.md")
     (section-main "./bdd.md")
     (section-main "./mob.md")
     (section-main "./contrib.md")
