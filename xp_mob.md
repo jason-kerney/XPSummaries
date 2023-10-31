@@ -1,7 +1,5 @@
 # Ensemble or Mob Development
 
-Note 1
-
 [Documents about XP Practices](README.md)
 
 ## Summary
@@ -22,7 +20,7 @@ Ensemble Development aims to amplify collaboration. It is worth noting that some
 
 ## Guidance
 
-<table style="border=none!important">hi
+<table style="border=none!important">
 <tr height=100%>
 <td width=30%>
   <img src="./images/pexels-anna-shvets-5324986.jpg" >
