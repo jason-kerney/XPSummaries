@@ -22,7 +22,7 @@ Ensemble Development aims to amplify collaboration. It is worth noting that some
 
 ## Guidance
 
-<table style="border=none!important">
+<table style="border=none!important">hi
 <tr height=100%>
 <td width=30%>
   <img src="./images/pexels-anna-shvets-5324986.jpg" >
