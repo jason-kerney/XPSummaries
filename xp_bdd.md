@@ -1,6 +1,6 @@
 # Behavior-Driven Development (BDD)
 
-[Documents about XP Practices](./README.md)
+[Documents about XP Practices](README.md)
 
 ## Summary
 
@@ -70,4 +70,4 @@ Maybe. You can make this work with any test framework in most programming langua
 
 Sort of. If you do not have a customer representative reading your tests, then you have no validation that the tests match the business domain.
 
-[Documents about XP Practices](./README.md)
+[Documents about XP Practices](README.md)

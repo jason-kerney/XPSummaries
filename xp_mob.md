@@ -1,6 +1,6 @@
 # Ensemble or Mob Development
 
-[Documents about XP Practices](./README.md)
+[Documents about XP Practices](README.md)
 
 ## Summary
 
@@ -81,4 +81,4 @@ This is a difficult question because there are a lot of things tied into this qu
 
 If anyone spends too much time in any of these modes, there is a problem with how the team functions. This behavior needs to be examined, and the team needs to determine what will change it. As for active bad actors, if everyone else tries to rotate through these modes, they will detect people who genuinely have no interest in contributing meaningfully. So, first, determine if the team is functioning optimally. Then, if they are, listen to the team. Otherwise, focus on getting the team members to cycle through these behaviors.
 
-[Documents about XP Practices](./README.md)
+[Documents about XP Practices](README.md)

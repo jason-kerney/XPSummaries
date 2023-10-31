@@ -1,6 +1,6 @@
 # Test-Driven Development (TDD)
 
-[Documents about XP Practices](./README.md)
+[Documents about XP Practices](README.md)
 
 ## Summary
 
@@ -83,4 +83,4 @@ Behavior-driven development focuses on the business domain language instead of t
 
 Acceptance test-driven development is test-driven development, with the first test cases being larger-scaled tests that verify the acceptance criteria of a feature. These acceptance tests are written before any implementation code.
 
-[Documents about XP Practices](./README.md)
+[Documents about XP Practices](README.md)
