@@ -46,9 +46,13 @@ It is also recommended that you rotate who is in the Driver position to prevent 
 
 You will need to decide if you are doing Strong Navigation or not and how to rotate the driver position. You will also need to determine where the work will be done. The notion of the same computer is squishy as the intent is that everyone can see the changes done in real time and have access to those changes should they take over.
 
+<img align="left" src="./images/MobProgramming.gif" style="width:30%;padding:20px 23px 0px 0px">
+
 ### 3.	Collaborate
 
 This sounds much easier than it is. When collaborating, you must be aware of people not speaking or voices being ignored. Take time to ensure everyone can navigate. If someone is not navigating, ensure it is not because they don’t know what to do. If at any point someone feels lost or out of touch with what is happening, stop and address that. This practice works best when the focus is on ensuring everyone knows how to do things rather than getting things done. Paradoxically, by not focusing on speed, you acquire more speed.
+
+<br><br>
 
 ## Hot Tips and Tricks
 
