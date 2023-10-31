@@ -20,7 +20,12 @@ Ensemble Development aims to amplify collaboration. It is worth noting that some
 
 ## Guidance
 
-<img align="left" src="./images/pexels-anna-shvets-5324986.jpg" style="width:30%;padding:20px 23px 0px 0px">
+<table>
+<tr>
+<td width=30%>
+  <img src="./images/pexels-anna-shvets-5324986.jpg" >
+</td>
+<td>
 
 ### 1.	Decide on the work to be done.
 
@@ -30,7 +35,10 @@ This works well when the work to be done has any of the following attributes:
 * The work is complicated, making it easy to make a mistake.
 * The work is complex, and all the requirements of the work being done cannot be known upfront.
 
-<br><br><br>
+</td>
+</tr>
+<tr>
+</table>
 
 <img align="right" src="./images/pexels-anna-shvets-4226140.jpg" style="width:30%;padding:20px 0px 0px 20px">
 
@@ -46,15 +54,21 @@ It is also recommended that you rotate who is in the Driver position to prevent 
 
 You will need to decide if you are doing Strong Navigation or not and how to rotate the driver position. You will also need to determine where the work will be done. The notion of the same computer is squishy as the intent is that everyone can see the changes done in real time and have access to those changes should they take over.
 
-<br>
 
-<img align="left" src="./images/MobProgramming.gif" style="width:30%;padding:20px 23px 0px 0px">
+<table>
+<tr>
+<td width=30%>
+<img align="left" src="./images/MobProgramming.gif">
+</td>
+<td>
 
 ### 3.	Collaborate
 
 This sounds much easier than it is. When collaborating, you must be aware of people not speaking or voices being ignored. Take time to ensure everyone can navigate. If someone is not navigating, ensure it is not because they don’t know what to do. If at any point someone feels lost or out of touch with what is happening, stop and address that. This practice works best when the focus is on ensuring everyone knows how to do things rather than getting things done. Paradoxically, by not focusing on speed, you acquire more speed.
 
-<br><br>
+</td>
+</tr>
+</table>
 
 ## Hot Tips and Tricks
 
