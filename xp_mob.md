@@ -39,7 +39,7 @@ This works well when the work to be done has any of the following attributes:
 </tr>
 <tr>
 </table>
-
+<br>
 <img align="right" src="./images/pexels-anna-shvets-4226140.jpg" style="width:30%;padding:20px 0px 0px 20px">
 
 ### 2.	Decide how and where you are going to work.
