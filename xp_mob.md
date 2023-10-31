@@ -20,6 +20,8 @@ Ensemble Development aims to amplify collaboration. It is worth noting that some
 
 ## Guidance
 
+<img align="left" src="./images/pexels-anna-shvets-5324986.jpg" style="width:30%;padding:20px 23px 0px 0px">
+
 ### 1.	Decide on the work to be done.
 
 This works well when the work to be done has any of the following attributes:
@@ -27,6 +29,8 @@ This works well when the work to be done has any of the following attributes:
 * The understanding is unevenly distributed.
 * The work is complicated, making it easy to make a mistake.
 * The work is complex, and all the requirements of the work being done cannot be known upfront.
+
+<br><br><br>
 
 ### 2.	Decide how and where you are going to work.
 
