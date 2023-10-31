@@ -1,5 +1,7 @@
 # Ensemble or Mob Development
 
+Note 1
+
 [Documents about XP Practices](README.md)
 
 ## Summary
