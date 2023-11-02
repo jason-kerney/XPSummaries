@@ -14,6 +14,20 @@
 
 * ?
 
+## What are my responsibilities?
+
+### ?
+
+?
+
+### Sponsor
+
+?
+
+### Development Team
+
+?
+
 ## Guidance
 
 ### 1.	???
