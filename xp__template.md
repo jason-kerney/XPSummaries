@@ -16,7 +16,7 @@
 
 ## What are my responsibilities?
 
-### ?
+### Customer/Product Owner
 
 ?
 
