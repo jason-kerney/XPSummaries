@@ -35,11 +35,12 @@ The development team’s responsibility is to ensure that Ensemble Development i
 ## Guidance
 
 <table style="border=none!important">
-<tr height=100%>
-<td width=30%>
+<tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
+<tr>
+<td>
   <img src="./images/pexels-anna-shvets-5324986.jpg" >
 </td>
-<td>
+<td colspan=2>
 
 ### 1.	Decide on the work to be done.
 
@@ -52,7 +53,7 @@ This works well when the work to be done has any of the following attributes:
 </td>
 </tr>
 <tr>
-<td>
+<td colspan=2>
 
 ### 2.	Decide how and where you are going to work.
 
@@ -75,7 +76,7 @@ You will need to decide if you are doing Strong Navigation or not and how to rot
 <td width=30%>
 <img align="left" src="./images/MobProgramming.gif">
 </td>
-<td>
+<td colspan=2>
 
 ### 3.	Collaborate
 
