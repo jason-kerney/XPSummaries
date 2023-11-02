@@ -40,6 +40,7 @@ Sometimes, to make the current test pass, you must re-architect what you did. Bu
 Look over the code you wrote, and ask if this code have any unnecessary complexity. If so, remove it. The change you made to the code did you make a similar change with a previous test? Can you isolate that change using a design pattern or other practice? Clean up your code and ensure it is easy to read and work with.
 
 ### 5.	Repeat
+
 Start with step two and repeat until the product is done.
 
 ## Hot Tips and Tricks
