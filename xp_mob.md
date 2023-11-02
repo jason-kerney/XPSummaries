@@ -35,7 +35,7 @@ The development team’s responsibility is to ensure that Ensemble Development i
 ## Guidance
 
 <table style="border=none!important">
-<tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
+<tr style="display:none"><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 <td>
   <img src="./images/pexels-anna-shvets-5324986.jpg" >
