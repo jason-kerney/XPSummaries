@@ -61,11 +61,14 @@ When the developer is introduced to a new term, take time to understand what tha
 
 </td>
 <td>
-    <img src="./images/?" >
+    <img src="./images/pexels-thirdman-7652188.jpg" >
 </td>
 </tr>
 <tr>
 <td>
+    <img src="./images/pexels-markus-spiske-1089438.jpg" >
+</td>
+<td colspan=2>
 
 ### 3.	Translate the test description into executable code, focusing on business terms.
 
