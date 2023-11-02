@@ -18,6 +18,20 @@ Ensemble Development aims to amplify collaboration. It is worth noting that some
 * More points of view being incorporated into the work.
 * Faster than solo development.
 
+## What are my responsibilities?
+
+### Customer/Product Owner
+
+The customer/product owner is encouraged to be part of the Ensemble/Mob as they work. This ensures that what is being developed matches expectations directly.
+
+### Coach
+
+Build an environment where Ensemble work is accepted and encouraged. Help the team see disruptions to collaboration.
+
+### Development Team
+
+The development team’s responsibility is to ensure that Ensemble Development is achieving the goal of facilitating hyper collaboration.
+
 ## Guidance
 
 <table style="border=none!important">
