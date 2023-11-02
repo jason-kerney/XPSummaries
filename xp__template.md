@@ -31,13 +31,14 @@
 ## Guidance
 
 <table style="border=none!important">
-<tr height=100%>
+<tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
+<tr>
 
 <!--Fist Item -->
-<td width=30%>
+<td>
     <img src="./images/?" >
 </td>
-<td>
+<td colspan=2>
 
 ### 1.	???
 
@@ -48,7 +49,7 @@
 
 <!--N Item -->
 <tr>
-<td>
+<td colspan=2>
 
 ### N.	???
 
