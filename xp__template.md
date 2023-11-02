@@ -1,4 +1,4 @@
-# Test-Driven Development (TDD)
+# ???
 
 [Documents about XP Practices](README.md)
 
@@ -20,7 +20,7 @@
 
 ?
 
-### Sponsor
+### Coach
 
 ?
 
