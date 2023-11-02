@@ -38,9 +38,7 @@ This works well when the work to be done has any of the following attributes:
 </td>
 </tr>
 <tr>
-</table>
-
-<img align="right" src="./images/pexels-anna-shvets-4226140.jpg" style="width:30%;padding:20px 0px 0px 20px">
+<td>
 
 ### 2.	Decide how and where you are going to work.
 
@@ -54,8 +52,11 @@ It is also recommended that you rotate who is in the Driver position to prevent 
 
 You will need to decide if you are doing Strong Navigation or not and how to rotate the driver position. You will also need to determine where the work will be done. The notion of the same computer is squishy as the intent is that everyone can see the changes done in real time and have access to those changes should they take over.
 
-
-<table style="border=none!important">
+</td>
+<td width=30%>
+<img align="right" src="./images/pexels-anna-shvets-4226140.jpg" style="padding:20px 0px 0px 20px">
+</td>
+</tr>
 <tr height=100%>
 <td width=30%>
 <img align="left" src="./images/MobProgramming.gif">
