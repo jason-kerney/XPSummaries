@@ -38,7 +38,7 @@ The development team’s responsibility is to ensure that Ensemble Development i
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 <td>
-  <img src="./images/pexels-anna-shvets-5324986.jpg" >
+  <img src="./images/mob/pexels-anna-shvets-5324986.jpg" >
 </td>
 <td colspan=2>
 
@@ -69,12 +69,12 @@ You will need to decide if you are doing Strong Navigation or not and how to rot
 
 </td>
 <td width=30%>
-<img align="right" src="./images/pexels-anna-shvets-4226140.jpg" style="padding:20px 0px 0px 20px">
+<img align="right" src="./images/mob/pexels-anna-shvets-4226140.jpg" style="padding:20px 0px 0px 20px">
 </td>
 </tr>
 <tr height=100%>
 <td width=30%>
-<img align="left" src="./images/MobProgramming.gif">
+<img align="left" src="./images/mob/MobProgramming.gif">
 </td>
 <td colspan=2>
 
