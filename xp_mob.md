@@ -3,13 +3,7 @@
 [Documents about XP Practices](README.md)
 
 <div style="float:right;border=1px"> 
-<table>
-<tr>
-<td>
 Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>Test<br>
-</td>
-<tr>
-</table>
 </div>
 
 ## Summary
