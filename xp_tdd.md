@@ -52,7 +52,7 @@ Take time to learn it. Understand when you don’t know how to do it. Please do 
 
 <!-- 1st Item -->
 <td>
-    <img src="./imgages/tdd/pexels-pixabay-220147.jpg" >
+    <img src="./images/tdd/pexels-pixabay-220147.jpg" >
 </td>
 <td colspan=2>
 
@@ -73,14 +73,14 @@ Focus on a single testable behavior the code should have. Each behavior focused 
 
 </td>
 <td width=30%>
-    <img src="./imgages/tdd/pexels-zachariah-garrison-1959841.jpg" >
+    <img src="./images/tdd/pexels-zachariah-garrison-1959841.jpg" >
 </td>
 </tr>
 
 
 <!-- 3rd Item -->
 <td>
-    <img src="./imgages/tdd/pexels-davis-sánchez-1727004.jpg" >
+    <img src="./images/tdd/pexels-davis-sánchez-1727004.jpg" >
 </td>
 <td colspan=2>
 
@@ -105,13 +105,13 @@ Look over the code you wrote, and ask if this code have any unnecessary complexi
 
 </td>
 <td width=30%>
-    <img src="./imgages/tdd/pexels-liliana-drew-9462302.jpg" >
+    <img src="./images/tdd/pexels-liliana-drew-9462302.jpg" >
 </td>
 </tr>
 
 <!-- 3rd Item -->
 <td>
-    <img src="./imgages/tdd/pexels-suzy-hazelwood-3631711.jpg" >
+    <img src="./images/tdd/pexels-suzy-hazelwood-3631711.jpg" >
 </td>
 <td colspan=2>
 
