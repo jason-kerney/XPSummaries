@@ -57,7 +57,7 @@ You must help the Customer/Product owner write acceptance criteria that is both 
 
 <!--Fist Item -->
 <td>
-    <img src="./images/atdd/pexels-nubia-navarro-(nubikini)-1522186" >
+    <img src="./images/atdd/pexels-nubia-navarro-(nubikini)-1522186.jpg" >
 </td>
 <td colspan=2>
 
