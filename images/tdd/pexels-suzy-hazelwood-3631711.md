@@ -1,0 +1,1 @@
+Photo by Suzy Hazelwood: https://www.pexels.com/photo/rewrite-edit-text-on-a-typewriter-3631711/
