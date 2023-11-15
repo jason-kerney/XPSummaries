@@ -1,48 +1,66 @@
-# Ensemble or Mob Development
 
-[Documents about XP Practices](README.md)
+<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
+# Ensemble or Mob Development #
 
-## Summary
+## Table Of Contents ##
+
+- [Section 1: Summary](#user-content-summary)
+- [Section 2: Goal](#user-content-goal)
+- [Section 3: Benefits](#user-content-benefits)
+- [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
+- [Section 5: Guidance](#user-content-guidance)
+- [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
+- [Section 7: FAQ](#user-content-faq)
+- [Section 8: Other Resources](#user-content-other-resources)
+- [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
+
+## Summary ##
 
 Ensemble Development is a practice that brings the whole team together to work in a highly collaborative way. Everybody works on the same thing at the same time, on the same computer. The focus here is active, vibrant communication. The practice does not generate all or any benefits if the communication is stifled, rigid, or non-existent.
+    
 
-## Goal
+## Goal ##
 
 Ensemble Development aims to amplify collaboration. It is worth noting that sometimes, to amplify collaboration, you will need to focus on teaching and learning. However, it is important not to let the teaching override the collaboration.
+    
 
-## Benefits
+## Benefits ##
 
 * Shared understanding of the work being done.
 * High bandwidth education of people less experienced with the work being done.
 * High quality of work.
 * More points of view being incorporated into the work.
 * Faster than solo development.
+    
 
-## What are my responsibilities?
+## What are my responsibilities ##
 
-### Customer/Product Owner
+### Customer/Product Owner ###
 
 The customer/product owner is encouraged to be part of the Ensemble/Mob as they work. This ensures that what is being developed matches expectations directly.
 
-### Coach
+### Coach ###
 
 Build an environment where Ensemble work is accepted and encouraged. Help the team see disruptions to collaboration.
 
-### Development Team
+### Development Team ###
 
 The development team’s responsibility is to ensure that Ensemble Development is achieving the goal of facilitating hyper collaboration.
+    
 
-## Guidance
+## Guidance ##
 
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
+
+<!--Fist Item -->
 <td>
-  <img src="./images/mob/pexels-anna-shvets-5324986.jpg" >
+    <img src="./images/mob/pexels-anna-shvets-5324986.jpg" >
 </td>
 <td colspan=2>
 
-### 1.	Decide on the work to be done.
+### 1.	Decide on the work to be done. ###
 
 This works well when the work to be done has any of the following attributes:
 
@@ -55,7 +73,7 @@ This works well when the work to be done has any of the following attributes:
 <tr>
 <td colspan=2>
 
-### 2.	Decide how and where you are going to work.
+### 2.	Decide how and where you are going to work. ###
 
 There are many roles and two positions when doing this type of work. The two positions are Driver and Navigator. The person who has control of the keyboard is the driver. Everyone else is the navigator. The driver's job is to listen to all the navigators and distill that into a coherent change. The navigator's job is to guide at the highest possible level where the changes are going.
 
@@ -78,15 +96,16 @@ You will need to decide if you are doing Strong Navigation or not and how to rot
 </td>
 <td colspan=2>
 
-### 3.	Collaborate
+### 3.	Collaborate ###
 
 This sounds much easier than it is. When collaborating, you must be aware of people not speaking or voices being ignored. Take time to ensure everyone can navigate. If someone is not navigating, ensure it is not because they don’t know what to do. If at any point someone feels lost or out of touch with what is happening, stop and address that. This practice works best when the focus is on ensuring everyone knows how to do things rather than getting things done. Paradoxically, by not focusing on speed, you acquire more speed.
 
 </td>
 </tr>
 </table>
+    
 
-## Hot Tips and Tricks
+## Hot Tips and Tricks ##
 
 * Optimize for learning.
   * Go at the speed of the slowest member.
@@ -99,18 +118,19 @@ This sounds much easier than it is. When collaborating, you must be aware of peo
   * Go smaller than you think is reasonable and grow from there.
 * Do not accept low amounts of collaboration. If collaboration is down, dig into why.
 * Start with micro retros approximately every 20 minutes to tune the group communications.
+    
 
-## F.A.Q
+## FAQ ##
 
-### Isn’t it more expensive to have everyone working on the same thing rather than individual things?
+### Isn’t it more expensive to have everyone working on the same thing rather than individual things? ###
 
 That depends. When collaboration is low, you only get a few benefits listed above. When collaboration is high, you gain all the benefits listed above. The question is, really, do the benefits outpace the cost? In my experience, if the collaboration is high, the answer has always been yes.
 
-### Doesn’t this form of work deteriorate into groupthink?
+### Doesn’t this form of work deteriorate into groupthink? ###
 
 Again, that depends. If the group does not focus on learning or the collaboration deteriorates, then it can. Most often, when I see it deteriorating, it isn’t into groupthink so much as following the leader, where one voice drowns out the others.
 
-### How do I prevent lazy people from hiding within the work of a group?
+### How do I prevent lazy people from hiding within the work of a group? ###
 
 This is a difficult question because there are a lot of things tied into this question. Let’s start by defining everyone’s responsibility in the group so we can then explain what it means to be a slacker within the group. Everyone within the mob should always be doing the following things in equal measure:
 
@@ -122,5 +142,21 @@ This is a difficult question because there are a lot of things tied into this qu
 * Drawing attention to things within the group dynamics that need to be refined.
 
 If anyone spends too much time in any of these modes, there is a problem with how the team functions. This behavior needs to be examined, and the team needs to determine what will change it. As for active bad actors, if everyone else tries to rotate through these modes, they will detect people who genuinely have no interest in contributing meaningfully. So, first, determine if the team is functioning optimally. Then, if they are, listen to the team. Otherwise, focus on getting the team members to cycle through these behaviors.
+    
+
+## Other Resources ##
+
+[LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-pair-and-mob-programming/tools-for-mob-programming?u=70938826)
+
+[Mob Programming Surprised Me (YouTube)](https://www.youtube.com/watch?v=ikilHGYk5Fs)
+
+[HBR Article on Sustained Collaboration](https://hbr.org/2019/11/cracking-the-code-of-sustained-collaboration)
+    
+
+## Back To Other Documents ##
 
 [Documents about XP Practices](README.md)
+    
+
+<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
+    

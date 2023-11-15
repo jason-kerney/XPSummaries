@@ -13,7 +13,7 @@
 </td>
 <td colspan=2>
 
-### 1.	TBD
+### 1.	TBD ###
 
 TBD
 
@@ -24,7 +24,7 @@ TBD
 <tr>
 <td colspan=2>
 
-### N.	TBD
+### N.	TBD ###
 
 TBD
 

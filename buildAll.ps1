@@ -1,5 +1,6 @@
 $dirs = Get-ChildItem -Directory -Filter "xp_*"
 
 foreach ($d in $dirs) {
-    booklisp.cmd "$d/_main.md" "x$d.md"
+    Write-Host ".. Building $d.md"
+    booklisp.cmd "$d/_main.md" "$d.md"
 }

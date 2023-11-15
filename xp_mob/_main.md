@@ -13,5 +13,3 @@
     (section-main "./Return.md")
 )
 /bl-->
-
-[Documents about XP Practices](README.md)
