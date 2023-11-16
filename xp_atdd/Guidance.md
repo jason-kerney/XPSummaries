@@ -1,13 +1,13 @@
 <!--bl
 (filemeta
-    (title "Guidance"))
+    (title "How do I go about it"))
 /bl-->
 
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 
-<!--Fist Item -->
+<!-- 1st Item -->
 <td>
     <img src="./images/atdd/pexels-nubia-navarro-(nubikini)-1522186.jpg" >
 </td>
@@ -20,7 +20,7 @@ For this to work, stories, on average, must have no more than four to five accep
 </td>
 </tr>
 
-<!--2nd Item -->
+<!-- 2nd Item -->
 <tr>
 <td colspan=2>
 
@@ -36,7 +36,7 @@ Developers can often help get the steps at the right level of detail. The trick 
 </td>
 </tr>
 
-<!--3rd Item -->
+<!-- 3rd Item -->
 <tr>
 <td width=30%>
     <img src="././images/atdd/pexels-pixabay-38631.jpg" >
@@ -50,7 +50,7 @@ As the functionality being tested does not yet exist, there will be different id
 </td>
 </tr>
 
-<!--4th Item -->
+<!-- 4th Item -->
 <tr>
 <td colspan=2>
 

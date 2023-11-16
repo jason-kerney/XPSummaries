@@ -1,0 +1,1 @@
+Photo by Samuel Figueroa: https://www.pexels.com/photo/black-and-white-striped-textile-2106249/

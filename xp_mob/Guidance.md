@@ -1,13 +1,13 @@
 <!--bl
 (filemeta
-    (title "Guidance"))
+    (title "How do I go about it"))
 /bl-->
 
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 
-<!--Fist Item -->
+<!-- 1st Item -->
 <td>
     <img src="./images/mob/pexels-anna-shvets-5324986.jpg" >
 </td>

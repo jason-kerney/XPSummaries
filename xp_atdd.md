@@ -9,7 +9,7 @@
 - [Section 2: Goal](#user-content-goal)
 - [Section 3: Benefits](#user-content-benefits)
 - [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
-- [Section 5: Guidance](#user-content-guidance)
+- [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
 - [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
 - [Section 7: FAQ](#user-content-faq)
 - [Section 8: Other Resources](#user-content-other-resources)
@@ -49,13 +49,13 @@ Help teams communicate and collaborate. Ensure they have the environment and too
 You must help the Customer/Product owner write acceptance criteria that is both meaningful and possible to test. You know the code base and what is possible based on the current design. You will also be responsible for implementing the tests and ensuring that they are true to what the Customer/Product Owner validated.
     
 
-## Guidance ##
+## How do I go about it ##
 
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 
-<!--Fist Item -->
+<!-- 1st Item -->
 <td>
     <img src="./images/atdd/pexels-nubia-navarro-(nubikini)-1522186.jpg" >
 </td>
@@ -68,7 +68,7 @@ For this to work, stories, on average, must have no more than four to five accep
 </td>
 </tr>
 
-<!--2nd Item -->
+<!-- 2nd Item -->
 <tr>
 <td colspan=2>
 
@@ -84,7 +84,7 @@ Developers can often help get the steps at the right level of detail. The trick 
 </td>
 </tr>
 
-<!--3rd Item -->
+<!-- 3rd Item -->
 <tr>
 <td width=30%>
     <img src="././images/atdd/pexels-pixabay-38631.jpg" >
@@ -98,7 +98,7 @@ As the functionality being tested does not yet exist, there will be different id
 </td>
 </tr>
 
-<!--4th Item -->
+<!-- 4th Item -->
 <tr>
 <td colspan=2>
 

@@ -8,7 +8,7 @@
 - [Section 2: Goal](#user-content-goal)
 - [Section 3: Benefits](#user-content-benefits)
 - [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
-- [Section 5: Guidance](#user-content-guidance)
+- [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
 - [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
 - [Section 7: FAQ](#user-content-faq)
 - [Section 8: Other Resources](#user-content-other-resources)
@@ -48,13 +48,13 @@ Build an environment where Ensemble work is accepted and encouraged. Help the te
 The development team’s responsibility is to ensure that Ensemble Development is achieving the goal of facilitating hyper collaboration.
     
 
-## Guidance ##
+## How do I go about it ##
 
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 
-<!--Fist Item -->
+<!-- 1st Item -->
 <td>
     <img src="./images/mob/pexels-anna-shvets-5324986.jpg" >
 </td>

@@ -8,7 +8,7 @@
 - [Section 2: Goal](#user-content-goal)
 - [Section 3: Benefits](#user-content-benefits)
 - [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
-- [Section 5: Guidance](#user-content-guidance)
+- [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
 - [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
 - [Section 7: FAQ](#user-content-faq)
 - [Section 8: Other Resources](#user-content-other-resources)
@@ -48,13 +48,13 @@ You must focus on the communication and listen for when it breaks down. Your goa
 You are in a position to learn about the business. The more you understand the processes impacted by your application the better your application will fit the need. This means paying attention to processes outside your application as they still affect you. Focus on getting the domain jargon correct. Focus on speaking in the domain jargon, even when talking about code.
     
 
-## Guidance ##
+## How do I go about it ##
 
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 
-<!--Fist Item -->
+<!-- 1st Item -->
 <td>
     <img src="./images/bdd/pexels-jimmy-chan-1309899.jpg" >
 </td>
