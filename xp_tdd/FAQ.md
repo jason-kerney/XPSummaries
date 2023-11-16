@@ -1,6 +1,6 @@
 <!--bl
 (filemeta
-    (title "FAQ"))
+    (title "F.A.Q."))
 /bl-->
 
 ### Can you use TDD in a legacy setting? ###

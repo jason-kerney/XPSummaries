@@ -1,6 +1,6 @@
 <!--bl
 (filemeta
-    (title "FAQ"))
+    (title "F.A.Q."))
 /bl-->
 
 ### How is BDD different from Test-Driven Development? ###

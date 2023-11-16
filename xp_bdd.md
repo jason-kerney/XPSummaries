@@ -10,7 +10,7 @@
 - [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
 - [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
 - [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
-- [Section 7: FAQ](#user-content-faq)
+- [Section 7: F.A.Q.](#user-content-f.a.q.)
 - [Section 8: Other Resources](#user-content-other-resources)
 - [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
 
@@ -110,7 +110,7 @@ Domain-Driven Development is a process where the domain of the problem trying to
 This practice takes time to learn and more time to master. The biggest problem developers face when starting down the path of BDD is that the test project can become unruly. This problem is caused by the developer not knowing how to develop cleanly in this new way of working. The developer needs to focus on the skills that allowed them to be successful and figure out how to apply them in this new context.
     
 
-## FAQ ##
+## F.A.Q. ##
 
 ### How is BDD different from Test-Driven Development? ###
 

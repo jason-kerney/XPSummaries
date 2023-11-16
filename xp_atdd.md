@@ -11,7 +11,7 @@
 - [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
 - [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
 - [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
-- [Section 7: FAQ](#user-content-faq)
+- [Section 7: F.A.Q.](#user-content-f.a.q.)
 - [Section 8: Other Resources](#user-content-other-resources)
 - [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
 
@@ -139,7 +139,7 @@ Since Acceptance Tests are large, over-arching tests, different people may under
 So far, this practice has been framed around stories. It is an incredible tool for story design and validation. But it can also be used for features. It has all the same benefits when used to define a feature. Defining small, distinct Acceptance Criteria for an Epic becomes more challenging, but there are huge advantages.
     
 
-## FAQ ##
+## F.A.Q. ##
 
 ### How does this differ from Test-Driven Development? ###
 

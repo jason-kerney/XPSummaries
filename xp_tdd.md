@@ -11,7 +11,7 @@
 - [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
 - [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
 - [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
-- [Section 7: FAQ](#user-content-faq)
+- [Section 7: F.A.Q.](#user-content-f.a.q.)
 - [Section 8: Other Resources](#user-content-other-resources)
 - [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
 
@@ -143,7 +143,7 @@ Brittle tests are often caused by an insufficient design. If you must tie your t
 TDD is a skill that needs practice.
     
 
-## FAQ ##
+## F.A.Q. ##
 
 ### Can you use TDD in a legacy setting? ###
 

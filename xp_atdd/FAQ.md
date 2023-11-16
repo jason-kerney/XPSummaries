@@ -1,6 +1,6 @@
 <!--bl
 (filemeta
-    (title "FAQ"))
+    (title "F.A.Q."))
 /bl-->
 
 ### How does this differ from Test-Driven Development? ###

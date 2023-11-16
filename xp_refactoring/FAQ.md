@@ -1,8 +1,8 @@
 <!--bl
 (filemeta
-    (title "FAQ"))
+    (title "F.A.Q."))
 /bl-->
 
-### TBD ###
+### What is a "Provable" Refactoring? ###
 
-TBD
+I will provide a link to the blog of the person who coined the term in other resources.

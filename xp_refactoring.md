@@ -10,7 +10,7 @@
 - [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
 - [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
 - [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
-- [Section 7: FAQ](#user-content-faq)
+- [Section 7: F.A.Q.](#user-content-f.a.q.)
 - [Section 8: Other Resources](#user-content-other-resources)
 - [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
 
@@ -133,21 +133,33 @@ An often-overlooked practice in refactoring is that it can be used to gain insig
 
 ## Hot Tips and Tricks ##
 
-### TBD ###
+### Use an IDE with Refactoring Tools ###
 
-TBD
+An Integrated Development Environment (IDE) is a tool that makes development easier. Many of these tools have built in refactoring options and/or have plug-ins that provide those options. These will automate the steps taken in a refactoring.
+
+It is worth noting, that these tools are just software and can have bugs just like any other software. As, such, performing an automated refactorings without viability of proof or automated tests is not refactoring even if the tool calls it such.
     
 
-## FAQ ##
+## F.A.Q. ##
 
-### TBD ###
+### What is a "Provable" Refactoring? ###
 
-TBD
+I will provide a link to the blog of the person who coined the term in other resources.
     
 
 ## Other Resources ##
 
-TBD
+[Provable Commits (Article)](https://corgibytes.com/blog/2019/09/05/provable-commits/)
+
+[Refactoring: Improving the Design of Existing Code (2nd Edition) by Martin Fowler (Amazon Link)](https://a.co/d/2XZRgaR)
+
+[Refactoring to Patterns by Joshua Kerievsky (Amazon Link)](https://a.co/d/1yIIKMH)
+
+[Working Effectively with Legacy Code by Michael Feathers (Amazon Link)](https://a.co/d/iWnGtBf)
+
+[Code Smells (WikiPedia Article)](https://en.wikipedia.org/wiki/Code_smell)
+
+[Code Smells Catalog (Interactive Website)](https://luzkan.github.io/smells/)
     
 
 ## Back To Other Documents ##

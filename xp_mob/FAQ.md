@@ -1,6 +1,6 @@
 <!--bl
 (filemeta
-    (title "FAQ"))
+    (title "F.A.Q."))
 /bl-->
 
 ### Isn’t it more expensive to have everyone working on the same thing rather than individual things? ###
