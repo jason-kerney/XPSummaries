@@ -23,4 +23,4 @@ Behavior-driven development focuses on the business domain language instead of t
 
 ### What is the difference between TDD and ATDD? ###
 
-Acceptance test-driven development is test-driven development, with the first test cases being larger-scaled tests that verify the acceptance criteria of a feature. These acceptance tests are written before any implementation code.
+Acceptance Test-Driven Development is Test-Driven Development, with the first test cases being larger-scaled tests that verify the acceptance criteria of a feature. These acceptance tests are written before any implementation code.
