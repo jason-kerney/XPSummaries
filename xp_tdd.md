@@ -127,18 +127,18 @@ Start with step two and repeat until the product is done.
 
 ## Hot Tips and Tricks ##
 
-### Z.O.M.B.I.E.
+### Z.O.M.B.I.E. ###
 
 ZOMBIE is a guide to help you know what to focus on and when.
 
 * [Video](https://www.youtube.com/watch?v=dYM8HEacJgs)
 * [Blog](https://blog.wingman-sw.com/tdd-guided-by-zombies)
 
-### Avoid Brittleness
+### Avoid Brittleness ###
 
 Brittle tests are often caused by an insufficient design. If you must tie your tests to implementation details, this means that there is some design aspect that is missing. You may have to learn what that is to avoid the brittleness.
 
-### Practice on Toy Projects
+### Practice on Toy Projects ###
 
 TDD is a skill that needs practice.
     
@@ -170,11 +170,17 @@ Acceptance Test-Driven Development is Test-Driven Development, with the first te
 
 ## Other Resources ##
 
-[Agile in Practice: Test Driven Development](https://www.youtube.com/watch?v=uGaNkTahrIw)
-
-[Amazon Book Search](https://www.amazon.com/s?k=test+driven+development&crid=C9V59P2R8TZ9&sprefix=Test+Driven%2Caps%2C146&ref=nb_sb_ss_ts-doa-p_1_11)
+[Agile in Practice: Test Driven Development (YouTube)](https://www.youtube.com/watch?v=uGaNkTahrIw)
 
 [Test Driven Development: By Example 1st Edition (Amazon Book Link)](https://a.co/d/1kCNdcz)
+
+[James W. Grenning - TDD Guided by ZOMBIES (YouTube)](www.youtube.com/watch?v=dYM8HEacJgs)
+
+[TDD Guided by Zombies by James W. Grenning (Blog)](https://blog.wingman-sw.com/tdd-guided-by-zombies)
+
+[Working Effectively with Legacy Code by Michael Feathers (Amazon Link)](https://a.co/d/9HelBB9)
+
+[Research Papers on TDD](https://github.com/jason-kerney/CoachingResources#user-content-tdd-research)
     
 
 ## Back To Other Documents ##
