@@ -13,4 +13,4 @@ The coach has a responsibility to ensure that the team is thinking about constan
 
 ### Development Team ###
 
-TBDThe development team is responsible for ensuring that refactoring is happening. Much as a chef cleans as they work, so must the development team. They also must take time to learn and experiment with skills that will enable them to be better at this activity.
+The development team is responsible for ensuring that refactoring is happening. Much as a chef cleans as they work, so must the development team. They also must take time to learn and experiment with skills that will enable them to be better at this activity.

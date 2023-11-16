@@ -34,13 +34,16 @@ Code Smells are micro-architectural errors that will always exist within code. L
 #### The Rule of Three ####
 
 Learning when to remove them is an art. A handy rule of thumb is called “The Rule of Three.” It says that a code smell gets to live until one of two conditions are true:
+
 1.	The code smell is replicated 3 times.
 2.	Three or more code smells can be removed with the application of a single pattern.
+
 The problem here is that this is a rule of thumb. It should not be followed blindly. There will be times when it makes since to remove a code smell before it qualifies “The Rule of Three.” There will be other times when it will not make since to remove a code smell just because it qualifies the rule.
 
 #### Paving the Way ####
 
 Another common way to decide when to remove smells is to wait until you have a change in the relevant area. Then you look at what it would take to make that change easier. Sometimes having the smells actually makes the change easier because they have multiple ways to be removed, and one of those ways will benefit what you are currently doing.
+
 Other times the smells will make changing the code harder, and so you need to removed them first so that the desired change is easier to make.
 
 </td>
@@ -59,11 +62,11 @@ Other times the smells will make changing the code harder, and so you need to re
 
 SOLID is an acronym that is used to define well designed software. It stands for:
 
-* Single Responsibility Principle
-* Open Closed Principle
-* Liscov Substitution Principle
-* Interface Segregation Principle
-* Dependency Inversion Principle
+* **S**ingle Responsibility Principle
+* **O**pen Closed Principle
+* **L**iscov Substitution Principle
+* **I**nterface Segregation Principle
+* **D**ependency Inversion Principle
 
 Though, this was originally defined in terms of object-oriented code, the principles have been translated into both Functional Programming and even Procedural Programming as well as others. These principles can guide us to know when to refactor. When we are in violation of a single principle, and that violation is making the code difficult to change, then we refactor that code.
 

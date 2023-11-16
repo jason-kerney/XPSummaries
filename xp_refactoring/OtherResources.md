@@ -11,6 +11,6 @@
 
 [Working Effectively with Legacy Code by Michael Feathers (Amazon Link)](https://a.co/d/iWnGtBf)
 
-[Code Smells (WikiPedia Article)](https://en.wikipedia.org/wiki/Code_smell)
+[Code Smells (Wikipedia Article)](https://en.wikipedia.org/wiki/Code_smell)
 
 [Code Smells Catalog (Interactive Website)](https://luzkan.github.io/smells/)

@@ -26,7 +26,9 @@ The goal of refactoring is to improve the maintainability of the code. The inten
 
 ## Benefits ##
 
-* Reduction in maintenance costs
+* Reduction in maintenance costs by improving understanding
+  * This makes code faster to modify
+  * This reduces the introduction of bugs
 * Faster implementation of new features
 * Easier on-boarding of new hires
     
@@ -43,7 +45,7 @@ The coach has a responsibility to ensure that the team is thinking about constan
 
 ### Development Team ###
 
-TBDThe development team is responsible for ensuring that refactoring is happening. Much as a chef cleans as they work, so must the development team. They also must take time to learn and experiment with skills that will enable them to be better at this activity.
+The development team is responsible for ensuring that refactoring is happening. Much as a chef cleans as they work, so must the development team. They also must take time to learn and experiment with skills that will enable them to be better at this activity.
     
 
 ## How do I go about it ##
@@ -79,13 +81,16 @@ Code Smells are micro-architectural errors that will always exist within code. L
 #### The Rule of Three ####
 
 Learning when to remove them is an art. A handy rule of thumb is called “The Rule of Three.” It says that a code smell gets to live until one of two conditions are true:
+
 1.	The code smell is replicated 3 times.
 2.	Three or more code smells can be removed with the application of a single pattern.
+
 The problem here is that this is a rule of thumb. It should not be followed blindly. There will be times when it makes since to remove a code smell before it qualifies “The Rule of Three.” There will be other times when it will not make since to remove a code smell just because it qualifies the rule.
 
 #### Paving the Way ####
 
 Another common way to decide when to remove smells is to wait until you have a change in the relevant area. Then you look at what it would take to make that change easier. Sometimes having the smells actually makes the change easier because they have multiple ways to be removed, and one of those ways will benefit what you are currently doing.
+
 Other times the smells will make changing the code harder, and so you need to removed them first so that the desired change is easier to make.
 
 </td>
@@ -104,11 +109,11 @@ Other times the smells will make changing the code harder, and so you need to re
 
 SOLID is an acronym that is used to define well designed software. It stands for:
 
-* Single Responsibility Principle
-* Open Closed Principle
-* Liscov Substitution Principle
-* Interface Segregation Principle
-* Dependency Inversion Principle
+* **S**ingle Responsibility Principle
+* **O**pen Closed Principle
+* **L**iscov Substitution Principle
+* **I**nterface Segregation Principle
+* **D**ependency Inversion Principle
 
 Though, this was originally defined in terms of object-oriented code, the principles have been translated into both Functional Programming and even Procedural Programming as well as others. These principles can guide us to know when to refactor. When we are in violation of a single principle, and that violation is making the code difficult to change, then we refactor that code.
 
@@ -144,7 +149,31 @@ It is worth noting, that these tools are just software and can have bugs just li
 
 ### What is a "Provable" Refactoring? ###
 
-I will provide a link to the blog of the person who coined the term in other resources.
+I will provide a link to an article.
+
+### Where do I start? ###
+
+“Pave the Way” is one of the best techniques to know where to start. It allows you to focus on accomplishing a goal and narrows the view of what to work on.
+
+The second-best place to start, is cleaning up a change you just made. This is the inverse of “Pave the Way” as the focus is now that things work let’s make it a little better.
+
+### How do I know when to Stop? ###
+
+Knowing when to stop initially seems as daunting as knowing when to start. Once you get familiar with code smells you will always see them. It is nearly impossible to make code 100% clean. The trick here is staying focused, here are a few guidelines to help:
+
+1.	Keep to small refactorings that can be timeboxed.
+2.	Refactor with intent to accomplish something else, aka Pave the Way.
+3.	Keep to the rule of Three.
+
+
+### How do I find the time? ###
+
+If you are worried about how you find the time, you are thinking too big. Remember to be considered a refactoring you must be as sure as possible that you do not change external behavior. The best way to ensure you don’t change external behavior is to focus on small changes. Small changes over time can have large effects to the quality of your code base. I recommend that you work refactoring in as part of any change you do.
+
+Do something before the change that makes your change easier. Maybe then tackle one or two items in the same area. Commit these changes separately from the change you were there to make in the first place. This makes life easier before starting.
+
+Then, as you make changes look for where you can improve what you just did. Clean up a little. This will go a long way to ensure that the code base’s quality at least remains the same. If done in conjunction with the initial clean up, then you guarantee that the code base’s quality is improving every time you touch it.
+
     
 
 ## Other Resources ##
@@ -157,7 +186,7 @@ I will provide a link to the blog of the person who coined the term in other res
 
 [Working Effectively with Legacy Code by Michael Feathers (Amazon Link)](https://a.co/d/iWnGtBf)
 
-[Code Smells (WikiPedia Article)](https://en.wikipedia.org/wiki/Code_smell)
+[Code Smells (Wikipedia Article)](https://en.wikipedia.org/wiki/Code_smell)
 
 [Code Smells Catalog (Interactive Website)](https://luzkan.github.io/smells/)
     
