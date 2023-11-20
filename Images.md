@@ -5,11 +5,18 @@
 
 ## Table Of Contents ##
 
-- [Section 1: Acceptance Test-Driven Development](#user-content-acceptance-test-driven-development)
-- [Section 2: Behavior-Driven Development](#user-content-behavior-driven-development)
-- [Section 3: Continuous Integration](#user-content-continuous-integration)
-- [Section 4: Ensemble Development](#user-content-ensemble-development)
-- [Section 5: Back To Other Documents](#user-content-back-to-other-documents)
+- [Section 1: A Big Thank You](#user-content-a-big-thank-you)
+- [Section 2: Acceptance Test-Driven Development](#user-content-acceptance-test-driven-development)
+- [Section 3: Behavior-Driven Development](#user-content-behavior-driven-development)
+- [Section 4: Continuous Integration](#user-content-continuous-integration)
+- [Section 5: Ensemble Development](#user-content-ensemble-development)
+- [Section 6: Refactoring](#user-content-refactoring)
+- [Section 7: Back To Other Documents](#user-content-back-to-other-documents)
+
+## A Big Thank You ##
+
+I just want to thank all the awesome photographers who make their work free for me to use. So this document lists all photo's used and the photographer and a link to the original source.
+    
 
 ## Acceptance Test-Driven Development ##
 
@@ -103,6 +110,37 @@ Photo by [Anna Shvets](https://www.pexels.com/photo/people-on-a-video-call-42261
 Photo by [Anna Shvets](https://www.pexels.com/photo/multiethnic-cheerful-colleagues-looking-at-stickers-and-smiling-5324986/) via Pexels
 
 <img src="./images/mob/pexels-anna-shvets-5324986.jpg" style="height:300px"></img>
+    
+    
+
+## Refactoring ##
+
+### pexels-amine-km-5712211 ###
+
+Photo by [Amine KM](https://www.pexels.com/photo/aerial-shot-of-sewage-treatment-plant-5712211/) via Pexels
+
+<img src="./images/refactoring/pexels-amine-km-5712211.jpg" style="height:300px"></img>
+    
+
+### pexels-kollipara-hemanth-18366881 ###
+
+Photo by [kollipara hemanth](https://www.pexels.com/photo/happy-worker-18366881/) via Pexels
+
+<img src="./images/refactoring/pexels-kollipara-hemanth-18366881.jpg" style="height:300px"></img>
+    
+
+### pexels-oladimeji-ajegbile-2696299 ###
+
+Photo by [Oladimeji Ajegbile](https://www.pexels.com/photo/man-working-using-a-laptop-2696299/) via Pexels
+
+<img src="./images/refactoring/pexels-oladimeji-ajegbile-2696299.jpg" style="height:300px"></img>
+    
+
+### pexels-samuel-figueroa-2106249 ###
+
+Photo by [Samuel Figueroa](https://www.pexels.com/photo/black-and-white-striped-textile-2106249/) via Pexels
+
+<img src="./images/refactoring/pexels-samuel-figueroa-2106249.jpg" style="height:300px"></img>
     
     
 
