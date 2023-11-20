@@ -1,0 +1,1 @@
+Photo by fauxels: https://www.pexels.com/photo/people-discuss-about-graphs-and-rates-3184292/

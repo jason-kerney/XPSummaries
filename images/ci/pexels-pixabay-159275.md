@@ -1,0 +1,1 @@
+Photo by Pixabay: https://www.pexels.com/photo/gray-and-gold-steel-gears-159275/
