@@ -7,3 +7,6 @@ foreach ($d in $dirs) {
 
 Write-Host ".. Building README.md"
 booklisp.cmd "./readme/_main.md" "README.md"
+
+Write-Host ".. Building Images.md"
+booklisp.cmd "./images/_main.md" "Images.md"
