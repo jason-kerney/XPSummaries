@@ -4,5 +4,8 @@
     (subtitle "Thanking those who provided the pictures"))
 (table-of-contents
     (section-main "./atdd/recognition.md")
+    (section-main "./bdd/recognition.md")
+    (section-main "./ci/recognition.md")
+    (section-main "./mob/recognition.md")
 )
 /bl-->
