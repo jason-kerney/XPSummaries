@@ -131,7 +131,7 @@ Sort of. If you do not have a customer representative reading your tests, then y
 
 ## Other Resources ##
 
-[What is #BDD (Behaviour Driven Development)? (YouTube)](https://www.youtube.com/watch?v=GavBjhAp42o)
+[What is #BDD (Behaviour Driven Development)?](https://www.youtube.com/watch?v=GavBjhAp42o)(YouTube 11:54)
     
 
 ## Back To Other Documents ##

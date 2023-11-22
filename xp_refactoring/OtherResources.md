@@ -3,14 +3,14 @@
     (title "Other Resources"))
 /bl-->
 
-[Provable Commits (Article)](https://corgibytes.com/blog/2019/09/05/provable-commits/)
+[Provable Commits](https://corgibytes.com/blog/2019/09/05/provable-commits/)(Article)
 
-[Refactoring: Improving the Design of Existing Code (2nd Edition) by Martin Fowler (Amazon Link)](https://a.co/d/2XZRgaR)
+[Refactoring: Improving the Design of Existing Code (2nd Edition) by Martin Fowler](https://a.co/d/2XZRgaR)(Amazon Book Link)
 
-[Refactoring to Patterns by Joshua Kerievsky (Amazon Link)](https://a.co/d/1yIIKMH)
+[Refactoring to Patterns by Joshua Kerievsky](https://a.co/d/1yIIKMH)(Amazon Book Link)
 
-[Working Effectively with Legacy Code by Michael Feathers (Amazon Link)](https://a.co/d/iWnGtBf)
+[Working Effectively with Legacy Code by Michael Feathers](https://a.co/d/iWnGtBf)(Amazon Book Link)
 
-[Code Smells (Wikipedia Article)](https://en.wikipedia.org/wiki/Code_smell)
+[Code Smells](https://en.wikipedia.org/wiki/Code_smell)(Wikipedia Article)
 
-[Code Smells Catalog (Interactive Website)](https://luzkan.github.io/smells/)
+[Code Smells Catalog](https://luzkan.github.io/smells/)(Interactive Website)
