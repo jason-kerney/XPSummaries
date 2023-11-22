@@ -132,6 +132,16 @@ By investing time in finding the right mix of tools and techniques that support 
 
 **Collaborative feedback:** Enable notifications and alerts to keep your team informed about build failures, test results, and code quality issues. Encourage collaboration and quick resolution of any problems that arise.
 
+### How is Continuous Integration different from Continuous Delivery? ###
+
+Continuous Integration (CI) and Continuous Delivery (CD) are related concepts but serve different purposes in the software development process.
+
+Continuous Integration (CI) focuses on the integration of code changes from multiple developers into a shared repository. It involves automating the build and testing process to ensure that changes can be quickly and safely merged. CI helps catch integration issues early and promotes collaboration among team members.
+
+On the other hand, Continuous Delivery (CD) is an extension of CI that focuses on automating the deployment process. CD aims to ensure that software is always in a releasable state by automating tasks such as building, testing, and deploying applications to various environments. CD enables teams to release software more frequently and reliably, reducing the time and effort required to deliver new features or bug fixes.
+
+In essence, CI is concerned with integrating code changes and ensuring their compatibility, while CD expands on CI by automating the entire delivery pipeline, including deployment. Both CI and CD are essential practices for achieving faster, more efficient software development and delivery.
+
     
 
 ## Other Resources ##
