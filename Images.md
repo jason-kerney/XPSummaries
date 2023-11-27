@@ -9,10 +9,11 @@
 - [Section 2: Acceptance Test-Driven Development](#user-content-acceptance-test-driven-development)
 - [Section 3: Behavior-Driven Development](#user-content-behavior-driven-development)
 - [Section 4: Continuous Integration](#user-content-continuous-integration)
-- [Section 5: Ensemble Development](#user-content-ensemble-development)
-- [Section 6: Refactoring](#user-content-refactoring)
-- [Section 7: Test-Driven Development](#user-content-test-driven-development)
-- [Section 8: Back To Other Documents](#user-content-back-to-other-documents)
+- [Section 5: Continuous Delivery](#user-content-continuous-delivery)
+- [Section 6: Ensemble Development](#user-content-ensemble-development)
+- [Section 7: Refactoring](#user-content-refactoring)
+- [Section 8: Test-Driven Development](#user-content-test-driven-development)
+- [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
 
 ## A Big Thank You ##
 
@@ -94,6 +95,30 @@ Photo by [Markus Spiske](https://www.pexels.com/photo/display-coding-programming
 Photo by [Pixabay](https://www.pexels.com/photo/gray-and-gold-steel-gears-159275/) via Pexels
 
 <img src="./images/ci/pexels-pixabay-159275.jpg" style="height:300px"></img>
+    
+    
+
+## Continuous Delivery ##
+
+### pexels-fauxels-3184418 ###
+
+Photo by [fauxels](https://www.pexels.com/photo/photo-of-people-near-wooden-table-3184418/) via Pexels
+
+<img src="./images/cd/pexels-fauxels-3184418.jpg" style="height:300px"></img>
+    
+
+### pexels-alex-knight-2599244 ###
+
+Photo by [Alex Knight](https://www.pexels.com/photo/high-angle-photo-of-robot-2599244/) via Pexels
+
+<img src="./images/cd/pexels-alex-knight-2599244.jpg" style="height:300px"></img>
+    
+
+### pexels-just-a-couple-photos-3421636 ###
+
+Photo by [Just  a Couple Photos](https://www.pexels.com/photo/gray-and-yellow-metal-pipes-3421636/) via Pexels
+
+<img src="./images/cd/pexels-just-a-couple-photos-3421636.jpg" style="height:300px"></img>
     
     
 

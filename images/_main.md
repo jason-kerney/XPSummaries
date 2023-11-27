@@ -7,6 +7,7 @@
     (section-main "./atdd/recognition.md")
     (section-main "./bdd/recognition.md")
     (section-main "./ci/recognition.md")
+    (section-main "./cd/recognition.md")
     (section-main "./mob/recognition.md")
     (section-main "./refactoring/recognition.md")
     (section-main "./tdd/recognition.md")

@@ -21,7 +21,7 @@
         },
         {
             "name": "start",
-            "command": "code ."
+            "command": "gittey build; code ."
         }
     ],
     "collaborators": []
