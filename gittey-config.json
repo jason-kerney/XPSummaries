@@ -18,6 +18,10 @@
         {
             "name": "push",
             "command": "git pull && gittey build && gittey commit && git push"
+        },
+        {
+            "name": "start",
+            "command": "code ."
         }
     ],
     "collaborators": []
