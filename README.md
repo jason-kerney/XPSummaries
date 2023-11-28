@@ -22,6 +22,7 @@ I was asked to write short summaries about Extreme Programming Practices and to 
 * [Behavior-Driven Development (BDD)](xp_bdd.md)
 * [Ensemble or Mob Development](xp_mob.md)
 * [Continuous Integration (CI)](xp_ci.md)
+* [Continuous Delivery (CD)](xp_cd.md)
 * [Thanks for All the Photos](Images.md)
     
 
