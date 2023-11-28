@@ -9,5 +9,4 @@ CD does not really work without the rigor of CI backing it. Starting with CI wil
 
 ### Use Advanced Techniques as Necessary ###
 
-Advanced techniques like feature toggles, canary releases, and red-blue releases can easily make your life easier or more complex. Understanding what these techniques are and when to use them is essential to getting the most out of CD.
-
+Advanced techniques like feature toggles, canary releases, Infrastructure as Code, Containerization, and red-blue releases can easily make your life easier or more complex. Understanding what these techniques are and when to use them is essential to getting the most out of CD.
