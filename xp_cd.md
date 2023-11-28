@@ -160,7 +160,9 @@ There are other useful metrics not listed here that all depend on your need. It 
 
 ## Other Resources ##
 
-TBD
+[CONTINUOUS DELIVERY SIMPLY EXPLAINED](https://www.youtube.com/watch?v=qiDIif7JVMo)(YouTube 17:22)
+[5 Steps to Master Continuous Delivery](https://www.gartner.com/smarterwithgartner/5-steps-to-master-continuous-delivery)(Article)
+[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble and David Farley](https://a.co/d/6n5KXMF)(Amazon Book Link)
     
 
 ## Back To Other Documents ##
