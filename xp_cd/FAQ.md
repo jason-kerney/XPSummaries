@@ -37,7 +37,7 @@ Cycle time, which measures the time taken from code commit to production deploym
 
 First Time Yield is the measure of things released to production subtract the number of defects that were detected all over the total number of things released. The closer this is to 100% the better you are doing. This should be measured over a longer time period then a single incremental cycle (a.k.a. sprint) and should probably span 6 to 9 cycles or more.
 
-#### Net Promoter Score###
+#### Net Promoter Score ####
 
 Monitoring customer satisfaction and feedback, such as through Net Promoter Score (NPS) or customer surveys, can also provide insights into the impact of Continuous Delivery on user experience. This will give you insight on how your process is either failing or supporting the customer.
 
