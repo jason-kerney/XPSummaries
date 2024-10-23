@@ -13,7 +13,7 @@
 </td>
 <td colspan="2">
 
-### 1.	Write Automated Tests ###
+<!-- (dl (# 1. Write Automated Tests)) -->
 
 It is not refactoring if external behavior changes. There are only two ways that might ensure that this is true. The first is to have a comprehensive suite of automated tests. The second is to use provable refactorings.
 A provable refactoring is one that can be proven mathematically to be safe. This is an advanced topic and out of scope for this body of work.
@@ -27,20 +27,20 @@ With that I will focus on automated tests. I understand that automated tests do 
 <tr>
 <td colspan="2">
 
-### 2.	Learn about Code Smells and When to Remove Them ###
+<!-- (dl (# 2. Learn about Code Smells and When to Remove Them)) -->
 
 Code Smells are micro-architectural errors that will always exist within code. Learning what they are and how to get rid of them is worthwhile. There is research that suggests that denser the code is with code smells the more likely there is a bug.
 
-#### The Rule of Three ####
+<!-- (dl (## The Rule of Three)) -->
 
 Learning when to remove them is an art. A handy rule of thumb is called “The Rule of Three.” It says that a code smell gets to live until one of two conditions are true:
 
-1.	The code smell is replicated 3 times.
-2.	Three or more code smells can be removed with the application of a single pattern.
+1. The code smell is replicated 3 times.
+2. Three or more code smells can be removed with the application of a single pattern.
 
 The problem here is that this is a rule of thumb. It should not be followed blindly. There will be times when it makes since to remove a code smell before it qualifies “The Rule of Three.” There will be other times when it will not make since to remove a code smell just because it qualifies the rule.
 
-#### Paving the Way ####
+<!-- (dl (## Paving the Way)) -->
 
 Another common way to decide when to remove smells is to wait until you have a change in the relevant area. Then you look at what it would take to make that change easier. Sometimes having the smells actually makes the change easier because they have multiple ways to be removed, and one of those ways will benefit what you are currently doing.
 
@@ -58,7 +58,7 @@ Other times the smells will make changing the code harder, and so you need to re
 </td>
 <td colspan="2">
 
-### 3.	Learn SOLID development ###
+<!-- (dl (# 3. Learn SOLID development)) -->
 
 SOLID is an acronym that is used to define well designed software. It stands for:
 
@@ -77,7 +77,7 @@ Though, this was originally defined in terms of object-oriented code, the princi
 <tr>
 <td colspan="2">
 
-### 4.	Refactor to Understand ###
+<!-- (dl (# 4. Refactor to Understand)) -->
 
 An often-overlooked practice in refactoring is that it can be used to gain insight into a piece of code you are about to change. Here you will need to make change to a piece of code you do not understand, and so you will start to tease meaning out of it by doing refactorings. You do this until you understand enough to make your change, and you have made the change easier to make.
 
