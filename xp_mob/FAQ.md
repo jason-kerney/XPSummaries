@@ -3,15 +3,15 @@
     (title F.A.Q.))
 )-->
 
-### Isn’t it more expensive to have everyone working on the same thing rather than individual things? ###
+<!-- (dl (# Isn’t it more expensive to have everyone working on the same thing rather than individual things?)) -->
 
 That depends. When collaboration is low, you only get a few benefits listed above. When collaboration is high, you gain all the benefits listed above. The question is, really, do the benefits outpace the cost? In my experience, if the collaboration is high, the answer has always been yes.
 
-### Doesn’t this form of work deteriorate into groupthink? ###
+<!-- (dl (# Doesn’t this form of work deteriorate into groupthink?)) -->
 
 Again, that depends. If the group does not focus on learning or the collaboration deteriorates, then it can. Most often, when I see it deteriorating, it isn’t into groupthink so much as following the leader, where one voice drowns out the others.
 
-### How do I prevent lazy people from hiding within the work of a group? ###
+<!-- (dl (# How do I prevent lazy people from hiding within the work of a group?)) -->
 
 This is a difficult question because there are a lot of things tied into this question. Let’s start by defining everyone’s responsibility in the group so we can then explain what it means to be a slacker within the group. Everyone within the mob should always be doing the following things in equal measure:
 
