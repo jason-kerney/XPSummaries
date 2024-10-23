@@ -155,9 +155,9 @@ The second-best place to start, is cleaning up a change you just made. This is t
 
 Knowing when to stop initially seems as daunting as knowing when to start. Once you get familiar with code smells you will always see them. It is nearly impossible to make code 100% clean. The trick here is staying focused, here are a few guidelines to help:
 
-1.	Keep to small refactorings that can be timeboxed.
-2.	Refactor with intent to accomplish something else, aka Pave the Way.
-3.	Keep to the rule of Three.
+1. Keep to small refactorings that can be timeboxed.
+2. Refactor with intent to accomplish something else, aka Pave the Way.
+3. Keep to the rule of Three.
 
 ### How do I find the time? ###
 
