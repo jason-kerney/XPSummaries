@@ -3,6 +3,7 @@
     (title How do I go about it))
 )-->
 
+<!-- markdownlint-disable -->
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
@@ -12,6 +13,7 @@
     <img src=./images/atdd/pexels-nubia-navarro-(nubikini)-1522186.jpg >
 </td>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 1. Keep stories small and easily definable.)) -->
 
@@ -21,8 +23,10 @@ For this to work, stories, on average, must have no more than four to five accep
 </tr>
 
 <!-- 2nd Item -->
+<!-- markdownlint-disable -->
 <tr>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 2. PO writes the acceptance criteria in a language that facilitates testing.)) -->
 
@@ -30,6 +34,7 @@ Each acceptance criteria must be written as a series of steps to test the criter
 
 Developers can often help get the steps at the right level of detail. The trick here is that it must be detailed enough for developers to understand, but it should not have every nitty-gritty detail.
 
+<!-- markdownlint-disable -->
 </td>
 <td width=30%>
     <img src=././images/atdd/pexels-suzy-hazelwood-1153929.jpg >
@@ -42,17 +47,20 @@ Developers can often help get the steps at the right level of detail. The trick 
     <img src=././images/atdd/pexels-pixabay-38631.jpg >
 </td>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 3. Developers and PO work together to develop the tests.)) -->
 
 As the functionality being tested does not yet exist, there will be different ideas for testing it. By bringing those ideas together, everyone will get a better idea of what the desired functionality is. The developers must agree that the test represents a reasonable expectation of how it could be executed, while the PO must approve that the test verifies the criteria.
 
+<!-- markdownlint-disable -->
 </td>
 </tr>
 
 <!-- 4th Item -->
 <tr>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 4. Run the tests often.)) -->
 
@@ -60,9 +68,11 @@ The tests must be runnable and run often. If a Continuous Integration (CI) frame
 
 When the test passes, the story is complete, and it is time to move to a different story.
 
+<!-- markdownlint-disable -->
 </td>
 <td width=30%>
     <img src=././images/atdd/pexels-jeshootscom-442584.jpg >
 </td>
 </tr>
 </table>
+<!-- markdownlint-restore -->
