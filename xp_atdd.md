@@ -1,29 +1,30 @@
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
 # Acceptance Test Driven Development #
-#### Also Known as ATDD ####
 
-## Table Of Contents ##
+### Also Known as ATDD ###
 
-- [Section 1: Summary](#user-content-summary)
-- [Section 2: Goal](#user-content-goal)
-- [Section 3: Benefits](#user-content-benefits)
-- [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
-- [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
-- [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
-- [Section 7: F.A.Q.](#user-content-f.a.q.)
-- [Section 8: Other Resources](#user-content-other-resources)
-- [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
+## Table of Contents ##
+
+1. [Section: Summary](#summary)
+2. [Section: Goal](#goal)
+3. [Section: Benefits](#benefits)
+4. [Section: What are my responsibilities](#what-are-my-responsibilities)
+5. [Section: How do I go about it](#how-do-i-go-about-it)
+6. [Section: Hot Tips and Tricks](#hot-tips-and-tricks)
+7. [Section: F.A.Q.](#faq)
+8. [Section: Other Resources](#other-resources)
+9. [Section: Back To Other Documents](#back-to-other-documents)
 
 ## Summary ##
 
 Acceptance Test-Driven Development is a practice where high-level acceptance tests are written for a story before any code is written. The focus here is on the smallest functionality that can be considered deliverable even if the user would not consider it a complete “feature.”
-    
 
 ## Goal ##
 
 Acceptance Test-Driven Development aims to ensure a common understanding of a story’s intent and usage.
-    
 
 ## Benefits ##
 
@@ -32,7 +33,6 @@ Acceptance Test-Driven Development aims to ensure a common understanding of a st
 * Frees up Product Owner (PO) time as, once the acceptance tests are written, the code is complete when the acceptance tests pass. There is no need for further PO testing.
 * Creates a common language between PO and Developers that is specific enough for development.
 * Ensures understandable acceptance criteria.
-    
 
 ## What are my responsibilities ##
 
@@ -47,7 +47,6 @@ Help teams communicate and collaborate. Ensure they have the environment and too
 ### Development Team ###
 
 You must help the Customer/Product owner write acceptance criteria that is both meaningful and possible to test. You know the code base and what is possible based on the current design. You will also be responsible for implementing the tests and ensuring that they are true to what the Customer/Product Owner validated.
-    
 
 ## How do I go about it ##
 
@@ -55,11 +54,10 @@ You must help the Customer/Product owner write acceptance criteria that is both 
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 
-<!-- 1st Item -->
 <td>
-    <img src="./images/atdd/pexels-nubia-navarro-(nubikini)-1522186.jpg" >
+    <img src=./images/atdd/pexels-nubia-navarro-(nubikini)-1522186.jpg >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 1.	Keep stories small and easily definable. ###
 
@@ -68,9 +66,8 @@ For this to work, stories, on average, must have no more than four to five accep
 </td>
 </tr>
 
-<!-- 2nd Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 2.	PO writes the acceptance criteria in a language that facilitates testing. ###
 
@@ -80,16 +77,15 @@ Developers can often help get the steps at the right level of detail. The trick 
 
 </td>
 <td width=30%>
-    <img src="././images/atdd/pexels-suzy-hazelwood-1153929.jpg" >
+    <img src=././images/atdd/pexels-suzy-hazelwood-1153929.jpg >
 </td>
 </tr>
 
-<!-- 3rd Item -->
 <tr>
 <td width=30%>
-    <img src="././images/atdd/pexels-pixabay-38631.jpg" >
+    <img src=././images/atdd/pexels-pixabay-38631.jpg >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 3.	Developers and PO work together to develop the tests. ###
 
@@ -98,9 +94,8 @@ As the functionality being tested does not yet exist, there will be different id
 </td>
 </tr>
 
-<!-- 4th Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 4.	Run the tests often. ###
 
@@ -110,11 +105,10 @@ When the test passes, the story is complete, and it is time to move to a differe
 
 </td>
 <td width=30%>
-    <img src="././images/atdd/pexels-jeshootscom-442584.jpg" >
+    <img src=././images/atdd/pexels-jeshootscom-442584.jpg >
 </td>
 </tr>
 </table>
-    
 
 ## Hot Tips and Tricks ##
 
@@ -137,7 +131,6 @@ Since Acceptance Tests are large, over-arching tests, different people may under
 ### 5.	Use Acceptance Test-Driven Development for Features. ###
 
 So far, this practice has been framed around stories. It is an incredible tool for story design and validation. But it can also be used for features. It has all the same benefits when used to define a feature. Defining small, distinct Acceptance Criteria for an Epic becomes more challenging, but there are huge advantages.
-    
 
 ## F.A.Q. ##
 
@@ -148,17 +141,15 @@ Both are test-fist practices. TDD focuses on implementation and design. You will
 ### How does this differ from Behavior-Driven Development? ###
 
 Behavior-Driven Development (BDD) is about a strict focus on business language. It can be used with TDD or with Acceptance-Driven Development. The difference is when the executable test is written, can the PO, or another Business Domain Expert, read the test code and understand what it does?  If so, the code was most likely written with BDD.
-    
 
 ## Other Resources ##
 
 [ISTQB Agile Tester #40 - What is Acceptance Test Driven Development- ATDD](https://www.youtube.com/watch?v=KA4Egr1PG7I)(YouTube 5:46)
-    
 
 ## Back To Other Documents ##
 
 [Documents about XP Practices](README.md)
-    
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->

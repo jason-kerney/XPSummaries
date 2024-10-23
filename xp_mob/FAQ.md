@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "F.A.Q."))
-/bl-->
+<!--(dl
+(section-meta
+    (title F.A.Q.))
+)-->
 
 ### Isn’t it more expensive to have everyone working on the same thing rather than individual things? ###
 

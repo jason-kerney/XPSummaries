@@ -1,0 +1,18 @@
+(section-meta
+    (title Image Credits)
+    (subtitle Thanking those who provided the pictures)
+    (include
+        (Section ./intro.md)
+        (Section ./atdd/_recognition.dlisp)
+        (Section ./bdd/_recognition.dlisp)
+        (Section ./ci/_recognition.dlisp)
+        (Section ./cd/_recognition.dlisp)
+        (Section ./mob/_recognition.dlisp)
+        (Section ./refactoring/_recognition.dlisp)
+        (Section ./tdd/_recognition.dlisp)
+        (Section ./Return.md)
+    )
+)
+
+(# Table of Contents)
+(content (toc numbered-labeled))

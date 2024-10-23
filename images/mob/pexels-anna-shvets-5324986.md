@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "pexels-anna-shvets-5324986"))
-/bl-->
+<!--(dl
+(section-meta
+    (title pexels-anna-shvets-5324986))
+)-->
 
 Photo by [Anna Shvets](https://www.pexels.com/photo/multiethnic-cheerful-colleagues-looking-at-stickers-and-smiling-5324986/) via Pexels
 

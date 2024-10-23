@@ -1,0 +1,10 @@
+(section-meta
+    (title Continuous Delivery)
+    (include
+        (Work ./pexels-fauxels-3184418.md)
+        (Work ./pexels-alex-knight-2599244.md)
+        (Work ./pexels-just-a-couple-photos-3421636.md)
+    )
+)
+
+(content)

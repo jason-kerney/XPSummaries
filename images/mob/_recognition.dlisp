@@ -1,0 +1,9 @@
+(section-meta
+    (title Ensemble Development)
+    (include
+        (Work ./pexels-anna-shvets-4226140.md)
+        (Work ./pexels-anna-shvets-5324986.md)
+    )
+)
+
+(content)

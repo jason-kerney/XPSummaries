@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "How do I go about it"))
-/bl-->
+<!--(dl
+(section-meta
+    (title How do I go about it))
+)-->
 
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
@@ -9,9 +9,9 @@
 
 <!-- 1st Item -->
 <td>
-    <img src="./images/bdd/pexels-jimmy-chan-1309899.jpg" >
+    <img src=./images/bdd/pexels-jimmy-chan-1309899.jpg >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 1.	Start with your native language. ###
 
@@ -20,7 +20,7 @@ Describe each test in your native language; you cannot use programming terms in 
 </td>
 </tr>
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 2.	Work with the customer or customer representative. ###
 
@@ -37,7 +37,7 @@ When the developer is introduced to a new term, take time to understand what tha
 <td>
     <img src="./images/bdd/pexels-markus-spiske-1089438.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 3.	Translate the test description into executable code, focusing on business terms. ###
 

@@ -1,8 +1,8 @@
-<!--bl
-(filemeta
-    (title "FILE_NAME"))
-/bl-->
+<!--(dl
+(section-meta
+    (title FILE_NAME))
+)-->
 
 Photo by [NAME](PEXELS_LINK) via Pexels
 
-<img src="./images/???/FILE_NAME.jpg" style="height:300px"></img>
+<img src=./images/???/FILE_NAME.jpg style=height:300px></img>

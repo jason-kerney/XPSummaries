@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "pexels-fauxels-3184418"))
-/bl-->
+<!--(dl
+(section-meta
+    (title pexels-fauxels-3184418))
+)-->
 
 Photo by [fauxels](https://www.pexels.com/photo/photo-of-people-near-wooden-table-3184418/) via Pexels
 

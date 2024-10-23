@@ -1,29 +1,30 @@
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
 # Test-Driven Development #
-#### Also Known as TDD ####
 
-## Table Of Contents ##
+### Also Known as TDD ###
 
-- [Section 1: Summary](#user-content-summary)
-- [Section 2: Goal](#user-content-goal)
-- [Section 3: Benefits](#user-content-benefits)
-- [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
-- [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
-- [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
-- [Section 7: F.A.Q.](#user-content-f.a.q.)
-- [Section 8: Other Resources](#user-content-other-resources)
-- [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
+## Table of Contents ##
+
+1. [Section: Summary](#summary)
+2. [Section: Goal](#goal)
+3. [Section: Benefits](#benefits)
+4. [Section: What are my responsibilities](#what-are-my-responsibilities)
+5. [Section: How do I go about it](#how-do-i-go-about-it)
+6. [Section: Hot Tips and Tricks](#hot-tips-and-tricks)
+7. [Section: F.A.Q.](#faq)
+8. [Section: Other Resources](#other-resources)
+9. [Section: Back To Other Documents](#back-to-other-documents)
 
 ## Summary ##
 
 Test-driven development is a development practice that focuses on using tests to define behavior and, therefore, the architecture of a software system incrementally. When doing Test-driven Development (TDD), the developer will write a test or a few tests before writing any implementation. They will then write the implementation to pass those tests. Once those tests pass, they will write one or a few additional tests for new functionality and repeat until the product is finished.
-    
 
 ## Goal ##
 
 Test-Driven Development focuses on design by forcing the design with the tests. If you cannot write tests that force the design, then the design is probably not needed.
-    
 
 ## Benefits ##
 
@@ -31,7 +32,6 @@ Test-Driven Development focuses on design by forcing the design with the tests. 
 * Creates code that is easier to change as architecture constantly changes.
 * Speeds up development in the late stages of a project.
 * Reduces bugs by having a test suite that defines desired behavior.
-    
 
 ## What are my responsibilities ##
 
@@ -42,7 +42,6 @@ Give the team room to learn and practice. TDD is a skill that will take time to 
 ### Development Team ###
 
 Take time to learn it. Understand when you don’t know how to do it. Please do what you need to in order to meet expectations, but then come back to that scenario and learn from it. Remember, smaller steps are better.
-    
 
 ## How do I go about it ##
 
@@ -50,11 +49,10 @@ Take time to learn it. Understand when you don’t know how to do it. Please do 
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 
-<!-- 1st Item -->
 <td>
     <img src="./images/tdd/pexels-pixabay-220147.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 1.	Write a Guiding Test ###
 
@@ -63,9 +61,8 @@ The first test you write is intended to test that the test environment works. Th
 </td>
 </tr>
 
-<!-- 2nd Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 2.	Write the Test(s) First ###
 
@@ -77,12 +74,10 @@ Focus on a single testable behavior the code should have. Each behavior focused 
 </td>
 </tr>
 
-
-<!-- 3rd Item -->
 <td>
     <img src="./images/tdd/pexels-davis-sánchez-1727004.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 3.	Make the Test Pass ###
 
@@ -95,9 +90,8 @@ Sometimes, to make the current test pass, you must re-architect what you did. Bu
 </td>
 </tr>
 
-<!-- 4th Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 4.	Refactor ###
 
@@ -109,11 +103,10 @@ Look over the code you wrote, and ask if this code have any unnecessary complexi
 </td>
 </tr>
 
-<!-- 3rd Item -->
 <td>
     <img src="./images/tdd/pexels-suzy-hazelwood-3631711.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 5.	Repeat ###
 
@@ -123,7 +116,6 @@ Start with step two and repeat until the product is done.
 </tr>
 
 </table>
-    
 
 ## Hot Tips and Tricks ##
 
@@ -148,7 +140,6 @@ Brittleness in tests often stems from design-related issues. By focusing on test
 ### Practice on Toy Projects ###
 
 TDD is a skill that needs practice.
-    
 
 ## F.A.Q. ##
 
@@ -173,7 +164,6 @@ Behavior-driven development focuses on the business domain language instead of t
 ### What is the difference between TDD and ATDD? ###
 
 Acceptance Test-Driven Development is Test-Driven Development, with the first test cases being larger-scaled tests that verify the acceptance criteria of a feature. These acceptance tests are written before any implementation code.
-    
 
 ## Other Resources ##
 
@@ -188,12 +178,11 @@ Acceptance Test-Driven Development is Test-Driven Development, with the first te
 [Working Effectively with Legacy Code by Michael Feathers](https://a.co/d/9HelBB9)(Amazon Book Link)
 
 [Research Papers on TDD](https://github.com/jason-kerney/CoachingResources#user-content-tdd-research)(GitHub Site)
-    
 
 ## Back To Other Documents ##
 
 [Documents about XP Practices](README.md)
-    
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->

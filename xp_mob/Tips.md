@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Hot Tips and Tricks"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Hot Tips and Tricks))
+)-->
 
 * Do
   * Optimize for learning.

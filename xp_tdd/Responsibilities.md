@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "What are my responsibilities"))
-/bl-->
+<!--(dl
+(section-meta
+    (title What are my responsibilities))
+)-->
 
 ### Coach ###
 

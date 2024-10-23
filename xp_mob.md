@@ -1,28 +1,28 @@
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
 # Ensemble or Mob Development #
 
-## Table Of Contents ##
+## Table of Contents ##
 
-- [Section 1: Summary](#user-content-summary)
-- [Section 2: Goal](#user-content-goal)
-- [Section 3: Benefits](#user-content-benefits)
-- [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
-- [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
-- [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
-- [Section 7: F.A.Q.](#user-content-f.a.q.)
-- [Section 8: Other Resources](#user-content-other-resources)
-- [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
+1. [Section: Summary](#summary)
+2. [Section: Goal](#goal)
+3. [Section: Benefits](#benefits)
+4. [Section: What are my responsibilities](#what-are-my-responsibilities)
+5. [Section: How do I go about it](#how-do-i-go-about-it)
+6. [Section: Hot Tips and Tricks](#hot-tips-and-tricks)
+7. [Section: F.A.Q.](#faq)
+8. [Section: Other Resources](#other-resources)
+9. [Section: Back To Other Documents](#back-to-other-documents)
 
 ## Summary ##
 
 Ensemble Development is a practice that brings the whole team together to work in a highly collaborative way. Everybody works on the same thing at the same time, on the same computer. The focus here is active, vibrant communication. The practice does not generate all or any benefits if the communication is stifled, rigid, or non-existent.
-    
 
 ## Goal ##
 
 Ensemble Development aims to amplify collaboration. It is worth noting that sometimes, to amplify collaboration, you will need to focus on teaching and learning. However, it is important not to let the teaching override the collaboration.
-    
 
 ## Benefits ##
 
@@ -31,7 +31,6 @@ Ensemble Development aims to amplify collaboration. It is worth noting that some
 * High quality of work.
 * More points of view being incorporated into the work.
 * Faster than solo development.
-    
 
 ## What are my responsibilities ##
 
@@ -46,7 +45,6 @@ Build an environment where Ensemble work is accepted and encouraged. Help the te
 ### Development Team ###
 
 The development team’s responsibility is to ensure that Ensemble Development is achieving the goal of facilitating hyper collaboration.
-    
 
 ## How do I go about it ##
 
@@ -54,11 +52,10 @@ The development team’s responsibility is to ensure that Ensemble Development i
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 
-<!-- 1st Item -->
 <td>
     <img src="./images/mob/pexels-anna-shvets-5324986.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 1.	Decide on the work to be done. ###
 
@@ -71,7 +68,7 @@ This works well when the work to be done has any of the following attributes:
 </td>
 </tr>
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 2.	Decide how and where you are going to work. ###
 
@@ -94,7 +91,7 @@ You will need to decide if you are doing Strong Navigation or not and how to rot
 <td width=30%>
 <img align="left" src="./images/mob/MobProgramming.gif">
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 3.	Collaborate ###
 
@@ -103,7 +100,6 @@ This sounds much easier than it is. When collaborating, you must be aware of peo
 </td>
 </tr>
 </table>
-    
 
 ## Hot Tips and Tricks ##
 
@@ -120,8 +116,6 @@ This sounds much easier than it is. When collaborating, you must be aware of peo
   * Start with micro retros approximately every 20 minutes to tune the group communications.
 * Do Not
   * Accept low amounts of collaboration. If collaboration is down, dig into why.
-
-    
 
 ## F.A.Q. ##
 
@@ -145,7 +139,6 @@ This is a difficult question because there are a lot of things tied into this qu
 * Drawing attention to things within the group dynamics that need to be refined.
 
 If anyone spends too much time in any of these modes, there is a problem with how the team functions. This behavior needs to be examined, and the team needs to determine what will change it. As for active bad actors, if everyone else tries to rotate through these modes, they will detect people who genuinely have no interest in contributing meaningfully. So, first, determine if the team is functioning optimally. Then, if they are, listen to the team. Otherwise, focus on getting the team members to cycle through these behaviors.
-    
 
 ## Other Resources ##
 
@@ -154,12 +147,11 @@ If anyone spends too much time in any of these modes, there is a problem with ho
 [Mob Programming Surprised Me](https://www.youtube.com/watch?v=ikilHGYk5Fs)(YouTube 17:42)
 
 [HBR Article on Sustained Collaboration](https://hbr.org/2019/11/cracking-the-code-of-sustained-collaboration)(Article)
-    
 
 ## Back To Other Documents ##
 
 [Documents about XP Practices](README.md)
-    
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->

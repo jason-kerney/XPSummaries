@@ -1,28 +1,28 @@
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
 # Refactoring #
 
-## Table Of Contents ##
+## Table of Contents ##
 
-- [Section 1: Summary](#user-content-summary)
-- [Section 2: Goal](#user-content-goal)
-- [Section 3: Benefits](#user-content-benefits)
-- [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
-- [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
-- [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
-- [Section 7: F.A.Q.](#user-content-f.a.q.)
-- [Section 8: Other Resources](#user-content-other-resources)
-- [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
+1. [Section: Summary](#summary)
+2. [Section: Goal](#goal)
+3. [Section: Benefits](#benefits)
+4. [Section: What are my responsibilities](#what-are-my-responsibilities)
+5. [Section: How do I go about it](#how-do-i-go-about-it)
+6. [Section: Hot Tips and Tricks](#hot-tips-and-tricks)
+7. [Section: F.A.Q.](#faq)
+8. [Section: Other Resources](#other-resources)
+9. [Section: Back To Other Documents](#back-to-other-documents)
 
 ## Summary ##
 
 Refactoring is the practice of changing the internal structure of code without changing its external behavior. Because of possible subtle errors that  can occur, refactoring is only refactoring when guided with automated tests.
-    
 
 ## Goal ##
 
 The goal of refactoring is to improve the maintainability of the code. The intent is that the difficulty to change the code remains both a constant and a minimum over the lifetime of the code. You do this by removing micro-architecture errors called "smells". You will never be able to remove all the micro-architecture errors, so you want to target those that are most prominent.
-    
 
 ## Benefits ##
 
@@ -31,7 +31,6 @@ The goal of refactoring is to improve the maintainability of the code. The inten
   * This reduces the introduction of bugs
 * Faster implementation of new features
 * Easier on-boarding of new hires
-    
 
 ## What are my responsibilities ##
 
@@ -46,7 +45,6 @@ The coach has a responsibility to ensure that the team is thinking about constan
 ### Development Team ###
 
 The development team is responsible for ensuring that refactoring is happening. Much as a chef cleans as they work, so must the development team. They also must take time to learn and experiment with skills that will enable them to be better at this activity.
-    
 
 ## How do I go about it ##
 
@@ -54,11 +52,10 @@ The development team is responsible for ensuring that refactoring is happening. 
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 
-<!-- 1st Item -->
 <td>
     <img src="./images/refactoring/pexels-kollipara-hemanth-18366881.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 1.	Write Automated Tests ###
 
@@ -70,9 +67,8 @@ With that I will focus on automated tests. I understand that automated tests do 
 </td>
 </tr>
 
-<!-- 2nd Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 2.	Learn about Code Smells and When to Remove Them ###
 
@@ -99,11 +95,10 @@ Other times the smells will make changing the code harder, and so you need to re
 </td>
 </tr>
 
-<!-- 3rd Item -->
 <td>
     <img src="./images/refactoring/pexels-samuel-figueroa-2106249.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 3.	Learn SOLID development ###
 
@@ -120,9 +115,8 @@ Though, this was originally defined in terms of object-oriented code, the princi
 </td>
 </tr>
 
-<!-- 4th Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 4.	Refactor to Understand ###
 
@@ -134,7 +128,6 @@ An often-overlooked practice in refactoring is that it can be used to gain insig
 </td>
 </tr>
 </table>
-    
 
 ## Hot Tips and Tricks ##
 
@@ -143,7 +136,6 @@ An often-overlooked practice in refactoring is that it can be used to gain insig
 An Integrated Development Environment (IDE) is a tool that makes development easier. Many of these tools have built in refactoring options and/or have plug-ins that provide those options. These will automate the steps taken in a refactoring.
 
 It is worth noting, that these tools are just software and can have bugs just like any other software. As, such, performing an automated refactorings without viability of proof or automated tests is not refactoring even if the tool calls it such.
-    
 
 ## F.A.Q. ##
 
@@ -165,7 +157,6 @@ Knowing when to stop initially seems as daunting as knowing when to start. Once 
 2.	Refactor with intent to accomplish something else, aka Pave the Way.
 3.	Keep to the rule of Three.
 
-
 ### How do I find the time? ###
 
 If you are worried about how you find the time, you are thinking too big. Remember to be considered a refactoring you must be as sure as possible that you do not change external behavior. The best way to ensure you don’t change external behavior is to focus on small changes. Small changes over time can have large effects to the quality of your code base. I recommend that you work refactoring in as part of any change you do.
@@ -173,8 +164,6 @@ If you are worried about how you find the time, you are thinking too big. Rememb
 Do something before the change that makes your change easier. Maybe then tackle one or two items in the same area. Commit these changes separately from the change you were there to make in the first place. This makes life easier before starting.
 
 Then, as you make changes look for where you can improve what you just did. Clean up a little. This will go a long way to ensure that the code base’s quality at least remains the same. If done in conjunction with the initial clean up, then you guarantee that the code base’s quality is improving every time you touch it.
-
-    
 
 ## Other Resources ##
 
@@ -189,12 +178,11 @@ Then, as you make changes look for where you can improve what you just did. Clea
 [Code Smells](https://en.wikipedia.org/wiki/Code_smell)(Wikipedia Article)
 
 [Code Smells Catalog](https://luzkan.github.io/smells/)(Interactive Website)
-    
 
 ## Back To Other Documents ##
 
 [Documents about XP Practices](README.md)
-    
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->

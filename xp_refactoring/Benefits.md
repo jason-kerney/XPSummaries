@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Benefits"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Benefits))
+)-->
 
 * Reduction in maintenance costs by improving understanding
   * This makes code faster to modify

@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Other Resources"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Other Resources))
+)-->
 
 [Agile Software Development Pair-and-Bob Programming](https://www.linkedin.com/learning/agile-software-development-pair-and-mob-programming/tools-for-mob-programming?u=70938826)(LinkedIn Learning Section 3)
 

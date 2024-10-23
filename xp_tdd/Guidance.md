@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "How do I go about it"))
-/bl-->
+<!--(dl
+(section-meta
+    (title How do I go about it))
+)-->
 
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
@@ -11,7 +11,7 @@
 <td>
     <img src="./images/tdd/pexels-pixabay-220147.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 1.	Write a Guiding Test ###
 
@@ -22,7 +22,7 @@ The first test you write is intended to test that the test environment works. Th
 
 <!-- 2nd Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 2.	Write the Test(s) First ###
 
@@ -39,7 +39,7 @@ Focus on a single testable behavior the code should have. Each behavior focused 
 <td>
     <img src="./images/tdd/pexels-davis-sánchez-1727004.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 3.	Make the Test Pass ###
 
@@ -54,7 +54,7 @@ Sometimes, to make the current test pass, you must re-architect what you did. Bu
 
 <!-- 4th Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 4.	Refactor ###
 
@@ -70,7 +70,7 @@ Look over the code you wrote, and ask if this code have any unnecessary complexi
 <td>
     <img src="./images/tdd/pexels-suzy-hazelwood-3631711.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 5.	Repeat ###
 

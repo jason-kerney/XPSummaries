@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Benefits"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Benefits))
+)-->
 
 * Test cases that the customer can read and validate.
 * Unified business-centric language.

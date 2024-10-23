@@ -1,28 +1,28 @@
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
 # Behavior-Driven Development (BDD) #
 
-## Table Of Contents ##
+## Table of Contents ##
 
-- [Section 1: Summary](#user-content-summary)
-- [Section 2: Goal](#user-content-goal)
-- [Section 3: Benefits](#user-content-benefits)
-- [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
-- [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
-- [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
-- [Section 7: F.A.Q.](#user-content-f.a.q.)
-- [Section 8: Other Resources](#user-content-other-resources)
-- [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
+1. [Section: Summary](#summary)
+2. [Section: Goal](#goal)
+3. [Section: Benefits](#benefits)
+4. [Section: What are my responsibilities](#what-are-my-responsibilities)
+5. [Section: How do I go about it](#how-do-i-go-about-it)
+6. [Section: Hot Tips and Tricks](#hot-tips-and-tricks)
+7. [Section: F.A.Q.](#faq)
+8. [Section: Other Resources](#other-resources)
+9. [Section: Back To Other Documents](#back-to-other-documents)
 
 ## Summary ##
 
 Behavior-Driven Development (BDD) is a practice that focuses on changing the way developers talk about code. It changes the language's focus to business-centric and removes technical jargon. Focusing on business language ensures the developers and the customer use the same terms to mean the same thing. This means that the developers must spend time learning the business domain and gaining insight into the customers' needs, enabling better partnerships.
-    
 
 ## Goal ##
 
 Behavior-Driven Development aims to focus development on the business domain and reduce abstractions of thought by unifying the language between developers and customers.
-    
 
 ## Benefits ##
 
@@ -31,7 +31,6 @@ Behavior-Driven Development aims to focus development on the business domain and
 * A focus on the business domain by developers.
 * Reduction of the need for customers to know the developer domain.
 * Can be applied to Test-Driven Development or Acceptance Test-Driven Development.
-    
 
 ## What are my responsibilities ##
 
@@ -46,7 +45,6 @@ You must focus on the communication and listen for when it breaks down. Your goa
 ### Development Team ###
 
 You are in a position to learn about the business. The more you understand the processes impacted by your application the better your application will fit the need. This means paying attention to processes outside your application as they still affect you. Focus on getting the domain jargon correct. Focus on speaking in the domain jargon, even when talking about code.
-    
 
 ## How do I go about it ##
 
@@ -54,11 +52,10 @@ You are in a position to learn about the business. The more you understand the p
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
 
-<!-- 1st Item -->
 <td>
-    <img src="./images/bdd/pexels-jimmy-chan-1309899.jpg" >
+    <img src=./images/bdd/pexels-jimmy-chan-1309899.jpg >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 1.	Start with your native language. ###
 
@@ -67,7 +64,7 @@ Describe each test in your native language; you cannot use programming terms in 
 </td>
 </tr>
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 2.	Work with the customer or customer representative. ###
 
@@ -84,7 +81,7 @@ When the developer is introduced to a new term, take time to understand what tha
 <td>
     <img src="./images/bdd/pexels-markus-spiske-1089438.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 3.	Translate the test description into executable code, focusing on business terms. ###
 
@@ -93,7 +90,6 @@ When translating the description into code, ensure you avoid technical jargon wh
 </td>
 </tr>
 </table>
-    
 
 ## Hot Tips and Tricks ##
 
@@ -108,7 +104,6 @@ Domain-Driven Development is a process where the domain of the problem trying to
 ### Behavior-Driven Development Takes Time to Learn ###
 
 This practice takes time to learn and more time to master. The biggest problem developers face when starting down the path of BDD is that the test project can become unruly. This problem is caused by the developer not knowing how to develop cleanly in this new way of working. The developer needs to focus on the skills that allowed them to be successful and figure out how to apply them in this new context.
-    
 
 ## F.A.Q. ##
 
@@ -127,17 +122,15 @@ Maybe. You can make this work with any test framework in most programming langua
 ### Can I do BDD without a customer representative? ###
 
 Sort of. If you do not have a customer representative reading your tests, then you have no validation that the tests match the business domain.
-    
 
 ## Other Resources ##
 
 [What is #BDD (Behaviour Driven Development)?](https://www.youtube.com/watch?v=GavBjhAp42o)(YouTube 11:54)
-    
 
 ## Back To Other Documents ##
 
 [Documents about XP Practices](README.md)
-    
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->

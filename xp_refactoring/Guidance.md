@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "How do I go about it"))
-/bl-->
+<!--(dl
+(section-meta
+    (title How do I go about it))
+)-->
 
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
@@ -11,7 +11,7 @@
 <td>
     <img src="./images/refactoring/pexels-kollipara-hemanth-18366881.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 1.	Write Automated Tests ###
 
@@ -25,7 +25,7 @@ With that I will focus on automated tests. I understand that automated tests do 
 
 <!-- 2nd Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 2.	Learn about Code Smells and When to Remove Them ###
 
@@ -56,7 +56,7 @@ Other times the smells will make changing the code harder, and so you need to re
 <td>
     <img src="./images/refactoring/pexels-samuel-figueroa-2106249.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 3.	Learn SOLID development ###
 
@@ -75,7 +75,7 @@ Though, this was originally defined in terms of object-oriented code, the princi
 
 <!-- 4th Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 4.	Refactor to Understand ###
 

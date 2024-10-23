@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Benefits"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Benefits))
+)-->
 
 * Shared understanding of the work being done.
 * High bandwidth education of people less experienced with the work being done.

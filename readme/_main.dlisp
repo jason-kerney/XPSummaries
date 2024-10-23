@@ -1,0 +1,12 @@
+(section-meta
+    (title XP Summaries)
+    (subtitle Quick Introductions to XP Practices)
+    (include
+        (Section ./intro.md)
+        (Section ./directory.md)
+        (Section ./contrib.md)
+    )
+)
+
+(# Table Of Contents)
+(content (toc numbered-labeled))

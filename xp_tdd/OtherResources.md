@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Other Resources"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Other Resources))
+)-->
 
 [Agile in Practice: Test Driven Development](https://www.youtube.com/watch?v=uGaNkTahrIw)(YouTube 3:32)
 

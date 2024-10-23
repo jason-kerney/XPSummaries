@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "How do I go about it"))
-/bl-->
+<!--(dl
+(section-meta
+    (title How do I go about it))
+)-->
 
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
@@ -9,9 +9,9 @@
 
 <!-- 1st Item -->
 <td>
-    <img src="./images/atdd/pexels-nubia-navarro-(nubikini)-1522186.jpg" >
+    <img src=./images/atdd/pexels-nubia-navarro-(nubikini)-1522186.jpg >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 1.	Keep stories small and easily definable. ###
 
@@ -22,7 +22,7 @@ For this to work, stories, on average, must have no more than four to five accep
 
 <!-- 2nd Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 2.	PO writes the acceptance criteria in a language that facilitates testing. ###
 
@@ -32,16 +32,16 @@ Developers can often help get the steps at the right level of detail. The trick 
 
 </td>
 <td width=30%>
-    <img src="././images/atdd/pexels-suzy-hazelwood-1153929.jpg" >
+    <img src=././images/atdd/pexels-suzy-hazelwood-1153929.jpg >
 </td>
 </tr>
 
 <!-- 3rd Item -->
 <tr>
 <td width=30%>
-    <img src="././images/atdd/pexels-pixabay-38631.jpg" >
+    <img src=././images/atdd/pexels-pixabay-38631.jpg >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 3.	Developers and PO work together to develop the tests. ###
 
@@ -52,7 +52,7 @@ As the functionality being tested does not yet exist, there will be different id
 
 <!-- 4th Item -->
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 4.	Run the tests often. ###
 
@@ -62,7 +62,7 @@ When the test passes, the story is complete, and it is time to move to a differe
 
 </td>
 <td width=30%>
-    <img src="././images/atdd/pexels-jeshootscom-442584.jpg" >
+    <img src=././images/atdd/pexels-jeshootscom-442584.jpg >
 </td>
 </tr>
 </table>

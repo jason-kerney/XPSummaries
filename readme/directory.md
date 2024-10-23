@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "A List of Available Documents"))
-/bl-->
+<!--(dl
+(section-meta
+    (title A List of Available Documents))
+)-->
 
 * [Test-Driven Development (TDD)](xp_tdd.md)
 * [Refactoring](xp_refactoring.md)

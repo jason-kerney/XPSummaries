@@ -1,0 +1,11 @@
+(section-meta
+    (title Continuous Integration)
+    (include
+        (Work ./pexels-enric-cruz-lópez-6642546.md)
+        (Work ./pexels-fauxels-3184292.md)
+        (Work ./pexels-markus-spiske-1921326.md)
+        (Work ./pexels-pixabay-159275.md)
+    )
+)
+
+(content)

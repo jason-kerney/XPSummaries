@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "F.A.Q."))
-/bl-->
+<!--(dl
+(section-meta
+    (title F.A.Q.))
+)-->
 
 ### Whats the difference between Continuous Integration and Continuous Development? ###
 

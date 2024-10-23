@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "pexels-liliana-drew-9462302"))
-/bl-->
+<!--(dl
+(section-meta
+    (title pexels-liliana-drew-9462302))
+)-->
 
 Photo by [Liliana Drew](https://www.pexels.com/photo/a-person-cleaning-a-gas-stove-9462302/) via Pexels
 

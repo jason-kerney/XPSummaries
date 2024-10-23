@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Benefits"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Benefits))
+)-->
 
 * A more stable code base.
 * A safety net that enables quicker development.

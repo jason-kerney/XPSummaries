@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "pexels-fauxels-3184292"))
-/bl-->
+<!--(dl
+(section-meta
+    (title pexels-fauxels-3184292))
+)-->
 
 Photo by [fauxels](https://www.pexels.com/photo/people-discuss-about-graphs-and-rates-3184292/) via Pexels
 

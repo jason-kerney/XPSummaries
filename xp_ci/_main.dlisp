@@ -1,0 +1,18 @@
+(section-meta
+    (title Continuous Integration)
+    (subtitle Otherwise known as CI)
+    (include
+        (Section ./Summary.md)
+        (Section ./Goal.md)
+        (Section ./Benefits.md)
+        (Section ./Responsibilities.md)
+        (Section ./Guidance.md)
+        (Section ./Tips.md)
+        (Section ./FAQ.md)
+        (Section ./OtherResources.md)
+        (Section ./Return.md)
+    )
+)
+
+(# Table of Contents)
+(content (toc numbered-labeled))

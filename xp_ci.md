@@ -1,29 +1,30 @@
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
 # Continuous Integration #
-#### Otherwise known as CI ####
 
-## Table Of Contents ##
+### Otherwise known as CI ###
 
-- [Section 1: Summary](#user-content-summary)
-- [Section 2: Goal](#user-content-goal)
-- [Section 3: Benefits](#user-content-benefits)
-- [Section 4: What are my responsibilities](#user-content-what-are-my-responsibilities)
-- [Section 5: How do I go about it](#user-content-how-do-i-go-about-it)
-- [Section 6: Hot Tips and Tricks](#user-content-hot-tips-and-tricks)
-- [Section 7: F.A.Q.](#user-content-f.a.q.)
-- [Section 8: Other Resources](#user-content-other-resources)
-- [Section 9: Back To Other Documents](#user-content-back-to-other-documents)
+## Table of Contents ##
+
+1. [Section: Summary](#summary)
+2. [Section: Goal](#goal)
+3. [Section: Benefits](#benefits)
+4. [Section: What are my responsibilities](#what-are-my-responsibilities)
+5. [Section: How do I go about it](#how-do-i-go-about-it)
+6. [Section: Hot Tips and Tricks](#hot-tips-and-tricks)
+7. [Section: F.A.Q.](#faq)
+8. [Section: Other Resources](#other-resources)
+9. [Section: Back To Other Documents](#back-to-other-documents)
 
 ## Summary ##
 
 Continuous Integration (CI) is a practice where code is compiled and run against every commit/check-in. Every commit to the source code repository compiles all the code and runs all the tests. It is recommended that at least a small portion of the tests execute the full stack to ensure that all parts of the system work together.
-    
 
 ## Goal ##
 
 The goal of CI is to give the team some assurance that the system is always deployable into production. This practice wants to catch when a breaking change enters the system as close to the creation of the bug as possible. By performing these actions automatically on every commit on remote servers you can ensure that environment issues present on the development machine are not causing false negatives.
-    
 
 ## Benefits ##
 
@@ -32,7 +33,6 @@ The goal of CI is to give the team some assurance that the system is always depl
 * Smaller footprint for bugs to be introduced.
 * A nearly always deployable code base.
 * Less pain during deployment.
-    
 
 ## What are my responsibilities ##
 
@@ -47,7 +47,6 @@ Help the team see the benefits of a CI pipeline. Get out of the development team
 ### Development Team ###
 
 Advocate for a CI pipeline. Take time to learn how to do it correctly, utilize it. If you have branches that don’t run the pipeline, fix that. Pay attention when it breaks.
-    
 
 ## How do I go about it ##
 
@@ -87,7 +86,6 @@ Advocate for a CI pipeline. Take time to learn how to do it correctly, utilize i
 </tr>
 
 </table>
-    
 
 ## Hot Tips and Tricks ##
 
@@ -104,7 +102,6 @@ The precise mix of testing types should be determined based on the specific need
 CI is not just about automation; it also emphasizes collaboration and communication among team members. Encourage developers to work in small, frequent increments and commit their changes regularly. This enables the team to catch integration issues early and resolve them quickly. Foster a culture where developers share their code changes with the team, review each other's work, and provide feedback.
 
 By investing time in finding the right mix of tools and techniques that support collaboration and communication, the CI environment can be greatly enhanced. These collaborative practices not only improve the effectiveness of CI but also contribute to a positive team dynamic, knowledge sharing, and continuous improvement within the development team.
-    
 
 ## F.A.Q. ##
 
@@ -142,18 +139,15 @@ On the other hand, Continuous Delivery (CD) is an extension of CI that focuses o
 
 In essence, CI is concerned with integrating code changes and ensuring their compatibility, while CD expands on CI by automating the entire delivery pipeline, including deployment. Both CI and CD are essential practices for achieving faster, more efficient software development and delivery.
 
-    
-
 ## Other Resources ##
 
 * [What is Continuous Integration?](https://www.youtube.com/watch?v=1er2cjUq1UI) (YouTube 6:17)
 * [Getting Started with Continuous Integration / Continuous Delivery (CI/CD)](https://www.linkedin.com/learning/paths/getting-started-with-continuous-integration-continuous-delivery-ci-cd?u=70938826) (LinkedIn Learning)
-    
 
 ## Back To Other Documents ##
 
 [Documents about XP Practices](README.md)
-    
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->

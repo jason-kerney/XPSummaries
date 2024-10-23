@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Benefits"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Benefits))
+)-->
 
 * Forces a focus on what the program needs to do before code is written.
 * Creates code that is easier to change as architecture constantly changes.

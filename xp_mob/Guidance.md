@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "How do I go about it"))
-/bl-->
+<!--(dl
+(section-meta
+    (title How do I go about it))
+)-->
 
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
@@ -11,7 +11,7 @@
 <td>
     <img src="./images/mob/pexels-anna-shvets-5324986.jpg" >
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 1.	Decide on the work to be done. ###
 
@@ -24,7 +24,7 @@ This works well when the work to be done has any of the following attributes:
 </td>
 </tr>
 <tr>
-<td colspan=2>
+<td colspan="2">
 
 ### 2.	Decide how and where you are going to work. ###
 
@@ -47,7 +47,7 @@ You will need to decide if you are doing Strong Navigation or not and how to rot
 <td width=30%>
 <img align="left" src="./images/mob/MobProgramming.gif">
 </td>
-<td colspan=2>
+<td colspan="2">
 
 ### 3.	Collaborate ###
 

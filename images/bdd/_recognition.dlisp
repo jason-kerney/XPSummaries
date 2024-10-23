@@ -1,0 +1,10 @@
+(section-meta
+    (title Behavior-Driven Development)
+    (include
+        (Work ./pexels-jimmy-chan-1309899.md)
+        (Work ./pexels-markus-spiske-1089438.md)
+        (Work ./pexels-thirdman-7652188.md)
+    )
+)
+
+(content)

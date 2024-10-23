@@ -1,6 +1,6 @@
-<!--bl
-(filemeta
-    (title "Goal"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Goal))
+)-->
 
 TBD

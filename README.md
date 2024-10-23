@@ -1,18 +1,20 @@
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-# XP Sumaries #
-#### Quick Introductions to XP Practices ####
+# XP Summaries #
+
+### Quick Introductions to XP Practices ###
 
 ## Table Of Contents ##
 
-- [Section 1: Introduction](#user-content-introduction)
-- [Section 2: A List of Available Documents](#user-content-a-list-of-available-documents)
-- [Section 3: Contributors](#user-content-contributors)
+1. [Section: Introduction](#introduction)
+2. [Section: A List of Available Documents](#a-list-of-available-documents)
+3. [Section: Contributors](#contributors)
 
 ## Introduction ##
 
 I was asked to write short summaries about Extreme Programming Practices and to make those summaries widely available. The target audience is anyone who wants a brief description. I will include resources in that description if people want to know more.
-    
 
 ## A List of Available Documents ##
 
@@ -24,15 +26,11 @@ I was asked to write short summaries about Extreme Programming Practices and to 
 * [Continuous Integration (CI)](xp_ci.md)
 * [Continuous Delivery (CD)](xp_cd.md)
 * [Thanks for All the Photos](Images.md)
-    
 
 ## Contributors ##
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tbody>
     <tr>
@@ -45,13 +43,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tbody>
 </table>
 
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-    
-
-<!-- GENERATED DOCUMENT! DO NOT EDIT! -->
-    
+<!-- GENERATED DOCUMENT DO NOT EDIT! -->

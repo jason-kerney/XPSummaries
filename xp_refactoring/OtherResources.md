@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Other Resources"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Other Resources))
+)-->
 
 [Provable Commits](https://corgibytes.com/blog/2019/09/05/provable-commits/)(Article)
 

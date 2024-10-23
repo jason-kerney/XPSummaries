@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "F.A.Q."))
-/bl-->
+<!--(dl
+(section-meta
+    (title F.A.Q.))
+)-->
 
 ### How is BDD different from Test-Driven Development? ###
 

@@ -1,7 +1,7 @@
-<!--bl
-(filemeta
-    (title "Other Resources"))
-/bl-->
+<!--(dl
+(section-meta
+    (title Other Resources))
+)-->
 
 * [CONTINUOUS DELIVERY SIMPLY EXPLAINED](https://www.youtube.com/watch?v=qiDIif7JVMo)(YouTube 17:22)
 * [5 Steps to Master Continuous Delivery](https://www.gartner.com/smarterwithgartner/5-steps-to-master-continuous-delivery)(Article)
