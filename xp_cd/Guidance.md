@@ -3,6 +3,7 @@
     (title How do I go about it))
 )-->
 
+<!-- markdownlint-disable -->
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
@@ -12,22 +13,26 @@
     <img src="./images/cd/pexels-fauxels-3184418.jpg" >
 </td>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 1. Focus on a Culture of Collaboration)) -->
 
 Establish a culture of collaboration and shared responsibility among development, operations, and other stakeholders, fostering a mindset of continuous improvement and learning.
 
+<!-- markdownlint-disable -->
 </td>
 </tr>
 
 <!-- 2nd Item -->
 <tr>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 2. Automation)) -->
 
 Automate the entire software delivery process, of building and deploying code changes, to ensure a reliable and repeatable process.
 
+<!-- markdownlint-disable -->
 </td>
 <td width=30%>
     <img src="./images/cd/pexels-alex-knight-2599244.jpg" >
@@ -41,12 +46,15 @@ Automate the entire software delivery process, of building and deploying code ch
     <img src="./images/cd/pexels-just-a-couple-photos-3421636.jpg" >
 </td>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 3. Setup Pipelines)) -->
 
 Implement deployment pipelines that enable the continuous deployment of software updates to production and production-like environments, with proper monitoring and rollback mechanisms in place to ensure a smooth and controlled release process.
 
+<!-- markdownlint-disable -->
 </td>
 </tr>
 
 </table>
+<!-- markdownlint-restore -->
