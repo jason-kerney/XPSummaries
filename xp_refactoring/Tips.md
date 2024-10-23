@@ -3,7 +3,7 @@
     (title Hot Tips and Tricks))
 )-->
 
-### Use an IDE with Refactoring Tools ###
+<!-- (dl (# Use an IDE with Refactoring Tools)) -->
 
 An Integrated Development Environment (IDE) is a tool that makes development easier. Many of these tools have built in refactoring options and/or have plug-ins that provide those options. These will automate the steps taken in a refactoring.
 
