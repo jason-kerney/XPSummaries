@@ -3,6 +3,7 @@
     (title How do I go about it))
 )-->
 
+<!-- markdownlint-disable -->
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
@@ -39,3 +40,4 @@
 </tr>
 
 </table>
+<!-- markdownlint-restore -->
