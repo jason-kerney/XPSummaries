@@ -13,7 +13,7 @@
 </td>
 <td colspan="2">
 
-### 1.	Start with your native language. ###
+<!-- (dl (# 1. Start with your native language.)) -->
 
 Describe each test in your native language; you cannot use programming terms in this description. The description should have a title and describe the steps used to perform the test. This should be detailed enough to translate the description sentence by sentence into code.
 
@@ -22,7 +22,7 @@ Describe each test in your native language; you cannot use programming terms in 
 <tr>
 <td colspan="2">
 
-### 2.	Work with the customer or customer representative. ###
+<!-- (dl (# 2. Work with the customer or customer representative.)) -->
 
 Someone representing the customer should be able to read your description and verify that it is correct. It is better if, initially, this person has the least programming knowledge. It will help filter out confusing terms. When the customer is confused by a term, ask them for a better one. The point here is for the developer to learn the customer's language.
 
@@ -39,7 +39,7 @@ When the developer is introduced to a new term, take time to understand what tha
 </td>
 <td colspan="2">
 
-### 3.	Translate the test description into executable code, focusing on business terms. ###
+<!-- (dl (# 3. Translate the test description into executable code, focusing on business terms.)) -->
 
 When translating the description into code, ensure you avoid technical jargon when it is unless absolutely necessary. The code must read like the description. A good test of this is to have the customer compare the two and ask questions.
 
