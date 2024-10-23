@@ -3,6 +3,7 @@
     (title How do I go about it))
 )-->
 
+<!-- markdownlint-disable -->
 <table style="border=none!important">
 <tr><td width=30%></td><td width=40%></td><td width=30%></td></tr>
 <tr>
@@ -12,22 +13,26 @@
     <img src="./images/tdd/pexels-pixabay-220147.jpg" >
 </td>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 1. Write a Guiding Test)) -->
 
 The first test you write is intended to test that the test environment works. This will be something that checks true is equal to false, 1 is equal to 2, or something similarly inane. The idea is when you run the test, the framework detects that it fails. Once your test fails, correct it to be correct, e.g., true is equal to true. Now, your framework should show this success. Delete this test once it has correctly detected failure and success.
 
+<!-- markdownlint-disable -->
 </td>
 </tr>
 
 <!-- 2nd Item -->
 <tr>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 2. Write the Test\(s\) First)) -->
 
 Focus on a single testable behavior the code should have. Each behavior focused on should be defined as small as possible. For instance, if we were coding the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) application, a single behavior would be that given 1, the application returns “1”. You would continue for each thinly sliced behavior until you cannot write a failing test.
 
+<!-- markdownlint-disable -->
 </td>
 <td width=30%>
     <img src="./images/tdd/pexels-zachariah-garrison-1959841.jpg" >
@@ -39,6 +44,7 @@ Focus on a single testable behavior the code should have. Each behavior focused 
     <img src="./images/tdd/pexels-davis-sánchez-1727004.jpg" >
 </td>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 3. Make the Test Pass)) -->
 
@@ -48,17 +54,20 @@ If the implementation is wrong, prove it when you write your next test. Have the
 
 Sometimes, to make the current test pass, you must re-architect what you did. But because you focus on small slices, that change will be less.
 
+<!-- markdownlint-disable -->
 </td>
 </tr>
 
 <!-- 4th Item -->
 <tr>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 4. Refactor)) -->
 
 Look over the code you wrote, and ask if this code have any unnecessary complexity. If so, remove it. The change you made to the code did you make a similar change with a previous test? Can you isolate that change using a design pattern or other practice? Clean up your code and ensure it is easy to read and work with.
 
+<!-- markdownlint-disable -->
 </td>
 <td width=30%>
     <img src="./images/tdd/pexels-liliana-drew-9462302.jpg" >
@@ -70,12 +79,15 @@ Look over the code you wrote, and ask if this code have any unnecessary complexi
     <img src="./images/tdd/pexels-suzy-hazelwood-3631711.jpg" >
 </td>
 <td colspan="2">
+<!-- markdownlint-restore -->
 
 <!-- (dl (# 5. Repeat)) -->
 
 Start with step two and repeat until the product is done.
 
+<!-- markdownlint-disable -->
 </td>
 </tr>
 
 </table>
+<!-- markdownlint-restore -->
