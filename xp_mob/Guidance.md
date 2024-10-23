@@ -13,7 +13,7 @@
 </td>
 <td colspan="2">
 
-### 1.	Decide on the work to be done. ###
+<!-- (dl (# 1. Decide on the work to be done.)) -->
 
 This works well when the work to be done has any of the following attributes:
 
@@ -26,7 +26,7 @@ This works well when the work to be done has any of the following attributes:
 <tr>
 <td colspan="2">
 
-### 2.	Decide how and where you are going to work. ###
+<!-- (dl (# 2. Decide how and where you are going to work.)) -->
 
 There are many roles and two positions when doing this type of work. The two positions are Driver and Navigator. The person who has control of the keyboard is the driver. Everyone else is the navigator. The driver's job is to listen to all the navigators and distill that into a coherent change. The navigator's job is to guide at the highest possible level where the changes are going.
 
@@ -49,7 +49,7 @@ You will need to decide if you are doing Strong Navigation or not and how to rot
 </td>
 <td colspan="2">
 
-### 3.	Collaborate ###
+<!-- (dl (# 3. Collaborate)) -->
 
 This sounds much easier than it is. When collaborating, you must be aware of people not speaking or voices being ignored. Take time to ensure everyone can navigate. If someone is not navigating, ensure it is not because they don’t know what to do. If at any point someone feels lost or out of touch with what is happening, stop and address that. This practice works best when the focus is on ensuring everyone knows how to do things rather than getting things done. Paradoxically, by not focusing on speed, you acquire more speed.
 
