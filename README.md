@@ -2,6 +2,8 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
+<!-- Compiled with doculisp (version 2.0.4) https://www.npmjs.com/package/doculisp -->
+
 # XP Summaries #
 
 ### Quick Introductions to XP Practices ###
