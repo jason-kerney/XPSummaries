@@ -13,7 +13,7 @@
 </td>
 <td colspan="2">
 
-### 1.	Keep stories small and easily definable. ###
+<!-- (dl (# 1. Keep stories small and easily definable.)) -->
 
 For this to work, stories, on average, must have no more than four to five acceptance tests. It may make sense to have boundary conditions be a series of separate stories to simplify the testing.
 
@@ -24,7 +24,7 @@ For this to work, stories, on average, must have no more than four to five accep
 <tr>
 <td colspan="2">
 
-### 2.	PO writes the acceptance criteria in a language that facilitates testing. ###
+<!-- (dl (# 2. PO writes the acceptance criteria in a language that facilitates testing.)) -->
 
 Each acceptance criteria must be written as a series of steps to test the criteria and expected results. The behavior testing language [Gherkin](https://cucumber.io/docs/gherkin/reference/) can help with this. It uses a business-friendly language with a “Given,” “When,” and “Then” syntax.
 
@@ -43,7 +43,7 @@ Developers can often help get the steps at the right level of detail. The trick 
 </td>
 <td colspan="2">
 
-### 3.	Developers and PO work together to develop the tests. ###
+<!-- (dl (# 3. Developers and PO work together to develop the tests.)) -->
 
 As the functionality being tested does not yet exist, there will be different ideas for testing it. By bringing those ideas together, everyone will get a better idea of what the desired functionality is. The developers must agree that the test represents a reasonable expectation of how it could be executed, while the PO must approve that the test verifies the criteria.
 
@@ -54,7 +54,7 @@ As the functionality being tested does not yet exist, there will be different id
 <tr>
 <td colspan="2">
 
-### 4.	Run the tests often. ###
+<!-- (dl (# 4. Run the tests often.)) -->
 
 The tests must be runnable and run often. If a Continuous Integration (CI) framework exists, these tests passing force a pull request or merge into main. If there is no CI framework, then the PO needs to be able to run it whenever they please. It is recommended they run it at least once a day.
 
