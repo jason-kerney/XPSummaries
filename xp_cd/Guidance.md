@@ -13,7 +13,7 @@
 </td>
 <td colspan="2">
 
-### 1.	Focus on a Culture of Collaboration ###
+<!-- (dl (# 1. Focus on a Culture of Collaboration)) -->
 
 Establish a culture of collaboration and shared responsibility among development, operations, and other stakeholders, fostering a mindset of continuous improvement and learning.
 
@@ -24,7 +24,7 @@ Establish a culture of collaboration and shared responsibility among development
 <tr>
 <td colspan="2">
 
-### 2.	Automation ###
+<!-- (dl (# 2. Automation)) -->
 
 Automate the entire software delivery process, of building and deploying code changes, to ensure a reliable and repeatable process.
 
@@ -42,12 +42,11 @@ Automate the entire software delivery process, of building and deploying code ch
 </td>
 <td colspan="2">
 
-### 3.	Setup Pipelines ###
+<!-- (dl (# 3. Setup Pipelines)) -->
 
 Implement deployment pipelines that enable the continuous deployment of software updates to production and production-like environments, with proper monitoring and rollback mechanisms in place to ensure a smooth and controlled release process.
 
 </td>
 </tr>
-
 
 </table>
